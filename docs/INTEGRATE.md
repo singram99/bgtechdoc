@@ -1,1 +1,1 @@
-## Integrate with Business Gateway services
+# Integrate with Business Gateway services
