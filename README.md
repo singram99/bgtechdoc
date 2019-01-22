@@ -8,7 +8,7 @@
 - [Deprecated schemas](docs/DEPRECATED.md)
 - [Deprecated schemas](#deprecated-schemas)
 - [Definitions, commonly asked questions and known issues](docs/DEF_FAQ.md)
-- [Definitions, commonly asked questions and known issues]((definitions-commonly-asked-questions-and-known-issues)
+- [Definitions, commonly asked questions and known issues](definitions-commonly-asked-questions-and-known-issues)
 
 ### Integrate with Business Gateway services
 Business Gateway developer pack: architecture overview
