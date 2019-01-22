@@ -2,13 +2,13 @@
 
 ## Contents
 - [Integrate with Business Gateway services](docs/INTEGRATE.md)
-- [Integrate with Business Gateway services](#Integrate-with-Business-Gateway-services)
+- [Integrate with Business Gateway services](#integrate-with-Business-Gateway-services)
 - [Services](docs/SERVICES.md)
 - [Services](#services)
 - [Deprecated schemas](docs/DEPRECATED.md)
-- [Deprecated schemas](#Deprecated-schemas)
+- [Deprecated schemas](#deprecated-schemas)
 - [Definitions, commonly asked questions and known issues](docs/DEF_FAQ.md)
-- [Definitions, commonly asked questions and known issues]((Definitions-commonly-asked-questions-and-known-issues)
+- [Definitions, commonly asked questions and known issues]((definitions-commonly-asked-questions-and-known-issues)
 
 ### Integrate with Business Gateway services
 Business Gateway developer pack: architecture overview
