@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 XXX
 
+See wsdl [BankruptcySearchV2_0PollRequestService](https://github.com/singram99/bgtechdoc/schemas/BankruptcySearchV2_0PollRequestService.wsdl).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
