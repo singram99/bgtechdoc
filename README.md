@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 XXX
 
-See wsdl [BankruptcySearchV2_0PollRequestService](https://github.com/singram99/bgtechdoc/schemas/BankruptcySearchV2_0PollRequestService.wsdl).
+See wsdl [BankruptcySearchV2_0PollRequestService](bgtechdoc/schemas/BankruptcySearchV2_0PollRequestService.wsdl).
 
 ### Markdown
 
