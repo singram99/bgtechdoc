@@ -1,7 +1,7 @@
 ## Welcome to Business Gateway developer pack: technical documentation
 
 Contents
-- [Bookmark example](create-an-anchor1)
+- [Bookmark example](#create-an-anchor1)
 - [Integrate with Business Gateway services](docs/INTEGRATE.md)
 - [Services](docs/SERVICES.md)
 - [Deprecated schemas](docs/DEPRECATED.md)
