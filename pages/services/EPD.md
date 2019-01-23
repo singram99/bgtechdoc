@@ -9,9 +9,9 @@
 
 The Search by Property Description service returns the title number of a property based on the address supplied.
 
-#### Process flow
+### Process flow
 
-#####Input
+####Input
 Request an enquiry by property description by sending the parameters:
 
 - login details
@@ -19,49 +19,49 @@ Request an enquiry by property description by sending the parameters:
 - customer reference
 - address
 
-#####Validation
+#### Validation
 Validation diagram (Search by property description) details the validation that the request undergoes.
 
 
-##### [Validation diagram](../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf)
+#### [Validation diagram](../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf)
 PDF, 223KB, 11 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
 
-##### Output
+#### Output
 A list of properties and title numbers.
 
-#### Schemas
+### Schemas
 
-##### [Schema: RequestSearchByPropertyDescriptionV2_0.xsd](../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd)
+#### [Schema: RequestSearchByPropertyDescriptionV2_0.xsd](../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd)
 XSD, 10KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
 
 This schema provides sample XML for the service.
 
-##### [Schema: RequestSearchByPropertyDescriptionV2_0Example.xml](../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml)
+#### [Schema: RequestSearchByPropertyDescriptionV2_0Example.xml](../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml)
 XML, 974Bytes
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
 
 Schema explain describes the request schema for the service.
 
-##### [Schema explain](../../pdfs/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf)
+#### [Schema explain](../../pdfs/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf)
 PDF, 109KB, 10 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
 
-##### [Schema: ResponseSearchByPropertyDescriptionV2_0.xsd](../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd)
+#### [Schema: ResponseSearchByPropertyDescriptionV2_0.xsd](../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd)
 XSD, 20.4KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
 
-#### Vendor testing
+### Vendor testing
 
 Vendor test data documents the data for testing the service.
 
-##### [Vendor test data](../../pdfs/SearchByPropertyDescriptionVendorTest.pdf)
+#### [Vendor test data](../../pdfs/SearchByPropertyDescriptionVendorTest.pdf)
 PDF, 207KB, 16 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
