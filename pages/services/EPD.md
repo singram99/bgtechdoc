@@ -47,7 +47,7 @@ This file may not be suitable for users of assistive technology. Request an acce
 
 Schema explain describes the request schema for the service.
 
-#### [Schema explain](../../pdfs/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf)
+#### [Schema explain](../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf)
 PDF, 109KB, 10 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
