@@ -1,4 +1,6 @@
-# Welcome to Business Gateway developer pack: technical documentation
+# Business Gateway developer pack: technical documentation
+
+## Technical documents for software developers to develop the client side of the Business Gateway interface.
 
 ## Contents
 - [Integrate with Business Gateway services](pages/INTEGRATE.md)
@@ -10,7 +12,7 @@
 - [Definitions, commonly asked questions and known issues](pages/DEF_FAQ.md)
 - [Definitions, commonly asked questions and known issues](#definitions-commonly-asked-questions-and-known-issues)
 
-### Integrate with Business Gateway services
+#### Integrate with Business Gateway services
 [Architecture overview](pages/integrate/ARCH_OVER.md)
 
 [.NET implementation guide](pages/integrate/NET_IMPL.md)
