@@ -15,3 +15,4 @@ This file may not be suitable for users of assistive technology. <a href="#" onc
 
 #### Details
 Architecture overview provides a high-level technical overview containing information about implementing web services and detail about the flows used in the Business Gateway.
+<script src="../../scripts/showhide.js"></script>
