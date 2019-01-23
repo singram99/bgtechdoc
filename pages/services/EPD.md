@@ -27,7 +27,7 @@ Validation diagram (Search by property description) details the validation that 
 PDF, 223KB, 11 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
-
+<p />
 
 #### Output
 A list of properties and title numbers.
@@ -39,7 +39,7 @@ A list of properties and title numbers.
 XSD, 10KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
-
+<p />
 
 This schema provides sample XML for the service.
 
