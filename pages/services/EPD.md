@@ -29,6 +29,8 @@ PDF, 223KB, 11 pages
 This file may not be suitable for users of assistive technology. Request an accessible format.
 <br />
 <br />
+<br />
+<br />
 
 #### Output
 A list of properties and title numbers.
@@ -42,6 +44,8 @@ XSD, 10KB
 This file may not be suitable for users of assistive technology. Request an accessible format.
 <br />
 <br />
+<br />
+<br />
 
 This schema provides sample XML for the service.
 
@@ -51,6 +55,8 @@ XML, 974Bytes
 This file may not be suitable for users of assistive technology. Request an accessible format.
 <br />
 <br />
+<br />
+<br />
 
 Schema explain describes the request schema for the service.
 
@@ -58,6 +64,10 @@ Schema explain describes the request schema for the service.
 PDF, 109KB, 10 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
+<br />
+<br />
+<br />
+<br />
 
 <h3><img style="float: left;" src="../../images/file.png"> <a href="../../schemas/RResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
 XSD, 20.4KB
