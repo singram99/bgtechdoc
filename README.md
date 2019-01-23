@@ -19,7 +19,7 @@
 [Technical guidance for infrastructure change](pages/integrate/TECH_GUIDE.md)
 
 ### Services
-Search by Property Description
+[Search by Property Description](pages/services/EPD.md)
 
 Official Copy Title Known
 
