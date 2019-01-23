@@ -69,7 +69,7 @@ This file may not be suitable for users of assistive technology. Request an acce
 <br />
 <br />
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/RResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
 XSD, 20.4KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
@@ -82,7 +82,7 @@ This file may not be suitable for users of assistive technology. Request an acce
 
 Vendor test data documents the data for testing the service.
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/earchByPropertyDescriptionVendorTest.pdf">Vendor test data</a></h3>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Vendor test data</a></h3>
 PDF, 207KB, 16 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
