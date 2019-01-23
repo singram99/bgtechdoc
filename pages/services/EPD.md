@@ -48,7 +48,7 @@ This file may not be suitable for users of assistive technology. <a href="#" onc
 If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Schema%3A%20RequestSearchByPropertyDescriptionV2_0.xsd%0A%20%20Original%20format%3A%20xsd%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Schema%3A%20RequestSearchByPropertyDescriptionV2_0.xsd%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
-
+<br/>
 #### This schema provides sample XML for the service.
 
 <h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
@@ -61,7 +61,7 @@ This file may not be suitable for users of assistive technology. <a href="#" onc
 If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Schema%3A%20RequestSearchByPropertyDescriptionV2_0Example.xml%0A%20%20Original%20format%3A%20xml%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Schema%3A%20RequestSearchByPropertyDescriptionV2_0Example.xml%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
-
+<br/>
 #### Schema explain describes the request schema for the service.
 
 <h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Schema explain</a></h3>
@@ -74,7 +74,7 @@ This file may not be suitable for users of assistive technology. <a href="#" onc
 If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Schema%20explain%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Schema%20explain%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
-
+<br/>
 <h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
 <a download="ResponseSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Download</a>
 
