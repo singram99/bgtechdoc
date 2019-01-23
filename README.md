@@ -13,15 +13,13 @@
 ### Integrate with Business Gateway services
 [Architecture overview](pages/integrate/ARCH_OVER.md)
 
-.NET implementation guide
+[.NET implementation guide](pages/integrate/NET_IMPL.md)
 
-Developer guide
+[Developer guide](pages/integrate/DEV_GUIDE.md)
 
-Vendor testing guide
+[Vendor testing guide](pages/integrate/VENDOR_TEST_GUIDE.md)
 
-Release notes
-
-Technical guidance for infrastructure change
+[Technical guidance for infrastructure change](pages/integrate/TECH_GUIDE.md)
 
 ### Services
 Search by Property Description
