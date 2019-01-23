@@ -35,28 +35,31 @@ A list of properties and title numbers.
 
 ### Schemas
 
-<img style="float: left;" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a>
+<h3><img style="float: left;" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
 
 XSD, 10KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
-<p />
+<br />
+<br />
 
 This schema provides sample XML for the service.
 
-#### [Schema: RequestSearchByPropertyDescriptionV2_0Example.xml](../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml)
+<h3><img style="float: left;" src="../../images/file.png"> <a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
 XML, 974Bytes
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
+<br />
+<br />
 
 Schema explain describes the request schema for the service.
 
-#### [Schema explain](../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf)
+<h3><img style="float: left;" src="../../images/file.png"> <a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Schema explain</a></h3>
 PDF, 109KB, 10 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
 
-#### [Schema: ResponseSearchByPropertyDescriptionV2_0.xsd](../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd)
+<h3><img style="float: left;" src="../../images/file.png"> <a href="../../schemas/RResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
 XSD, 20.4KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
@@ -65,7 +68,7 @@ This file may not be suitable for users of assistive technology. Request an acce
 
 Vendor test data documents the data for testing the service.
 
-#### [Vendor test data](../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf)
+<h3><img style="float: left;" src="../../images/file.png"> <a href="../../pdfs/services/earchByPropertyDescriptionVendorTest.pdf">Vendor test data</a></h3>
 PDF, 207KB, 16 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
