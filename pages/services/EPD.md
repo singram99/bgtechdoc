@@ -1,5 +1,5 @@
 ## Business Gateway developer pack: Search by Property Description
-
+[//]: # Comment?
 ### Technical documents for software developers to integrate Search by Property Description service data into their systems.
 
 #### Contents
@@ -31,10 +31,11 @@ This file may not be suitable for users of assistive technology. Request an acce
 A list of properties and title numbers.
 
 ### Schemas
+<div>
 <p align="center">
 <img style="float: left;" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a>
 </p>
-
+</div>
 XSD, 10KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
