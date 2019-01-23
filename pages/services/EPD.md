@@ -22,10 +22,12 @@ Request an enquiry by property description by sending the parameters:
 #### Validation
 Validation diagram (Search by property description) details the validation that the request undergoes.
 
-![File image](../../images/file.png) [Validation diagram](../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf)
+<img style="float: left;" src="../../images/file.png"> <a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Validation diagram</a>
+
 PDF, 223KB, 11 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
+
 
 #### Output
 A list of properties and title numbers.
@@ -38,8 +40,8 @@ XSD, 10KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
 
-This schema provides sample XML for the service.
 
+This schema provides sample XML for the service.
 
 #### [Schema: RequestSearchByPropertyDescriptionV2_0Example.xml](../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml)
 XML, 974Bytes
