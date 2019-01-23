@@ -1,4 +1,3 @@
-# Business Gateway developer pack: technical documentation
 
 ## Technical documents for software developers to develop the client side of the Business Gateway interface.
 
