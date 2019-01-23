@@ -31,11 +31,9 @@ This file may not be suitable for users of assistive technology. Request an acce
 A list of properties and title numbers.
 
 ### Schemas
-<div>
-<p vertical-align="center">
+
 <img style="float: left;" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a>
-</p>
-</div>
+
 XSD, 10KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
