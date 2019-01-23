@@ -32,7 +32,7 @@ A list of properties and title numbers.
 
 ### Schemas
 
-#### [Schema: RequestSearchByPropertyDescriptionV2_0.xsd](../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd)
+<img style="float: left;" src="../../images/file.png"> [Schema: RequestSearchByPropertyDescriptionV2_0.xsd](../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd)
 XSD, 10KB
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
