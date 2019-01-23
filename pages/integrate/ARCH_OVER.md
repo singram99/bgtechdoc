@@ -8,7 +8,8 @@
 
 PDF, 223KB, 11 pages
 
-This file may not be suitable for users of assistive technology. Request an accessible format.
+This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo');">Request an accessible format. #foo</a>
+<div id="foo">If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email customersupport@landregistry.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.</div>
 <br />
 <br />
 
