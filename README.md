@@ -11,7 +11,7 @@
 - [Definitions, commonly asked questions and known issues](#definitions-commonly-asked-questions-and-known-issues)
 
 ### Integrate with Business Gateway services
-Architecture overview
+[Architecture overview](pages/integrate/ARCH_OVER.md)
 
 .NET implementation guide
 
