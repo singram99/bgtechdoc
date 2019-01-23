@@ -32,7 +32,7 @@ A list of properties and title numbers.
 
 ### Schemas
 <div>
-<p align="center">
+<p vertical-align="center">
 <img style="float: left;" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a>
 </p>
 </div>
