@@ -49,7 +49,7 @@ If you use assistive technology (such as a screen reader) and need a version of 
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
 <br/>
-This schema provides sample XML for the service.
+#### This schema provides sample XML for the service.
 
 <h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
 <a download="RequestSearchByPropertyDescriptionV2_0Example.xml" href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Download</a>
@@ -62,8 +62,7 @@ If you use assistive technology (such as a screen reader) and need a version of 
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
 <br/>
-
-Schema explain describes the request schema for the service.
+#### Schema explain describes the request schema for the service.
 
 <h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Schema explain</a></h3>
 <a download="RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf" href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Download</a>
@@ -87,10 +86,9 @@ If you use assistive technology (such as a screen reader) and need a version of 
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
 <br/>
-
 ### Vendor testing
 
-Vendor test data documents the data for testing the service.
+#### Vendor test data documents the data for testing the service.
 
 <h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Vendor test data</a></h3>
 <a download="SearchByPropertyDescriptionVendorTest.pdf" href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Download</a>
