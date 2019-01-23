@@ -37,7 +37,7 @@ A list of properties and title numbers.
 
 ### Schemas
 
-<h3><img style="float: left;" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
+<h3><img style="float: left; margin: 0px 20px" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
 
 XSD, 10KB
 
