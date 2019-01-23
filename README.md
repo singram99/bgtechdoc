@@ -1,13 +1,13 @@
 # Welcome to Business Gateway developer pack: technical documentation
 
 ## Contents
-- [Integrate with Business Gateway services](docs/INTEGRATE.md)
+- [Integrate with Business Gateway services](pages/INTEGRATE.md)
 - [Integrate with Business Gateway services](#integrate-with-Business-Gateway-services)
-- [Services](docs/SERVICES.md)
+- [Services](pages/SERVICES.md)
 - [Services](#services)
-- [Deprecated schemas](docs/DEPRECATED.md)
+- [Deprecated schemas](pages/DEPRECATED.md)
 - [Deprecated schemas](#deprecated-schemas)
-- [Definitions, commonly asked questions and known issues](docs/DEF_FAQ.md)
+- [Definitions, commonly asked questions and known issues](pages/DEF_FAQ.md)
 - [Definitions, commonly asked questions and known issues](#definitions-commonly-asked-questions-and-known-issues)
 
 ### Integrate with Business Gateway services
