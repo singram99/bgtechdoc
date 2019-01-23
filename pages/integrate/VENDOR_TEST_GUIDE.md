@@ -2,7 +2,7 @@
 
 ### Guidance for software developers that are using Land Registry web services and testing an interface with these services.
 #### Documents
-##### [Vendor testing guide](pagess/INTEGRATE.md)
+##### [Vendor testing guide](../../pdfs/integrate/business-gateway-vendor-test-guide.pdf)
 PDF, 151KB, 8 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.

@@ -3,7 +3,7 @@
 ### Guide for developers looking for technical information about Land Registry's Business Gateway.
 
 #### Documents
-##### [Developer guide](pagess/INTEGRATE.md)
+##### [Developer guide](../../pdfs/integrate/HM_Land_Registry_Business_Gateway_developer_guide_v1.4.pdf)
 PDF, 771KB, 28 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.

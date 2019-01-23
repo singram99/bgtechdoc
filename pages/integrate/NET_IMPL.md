@@ -3,7 +3,7 @@
 ### Technical implementation document for software developers using C# .NET to integrate with Business Gateway.
 
 #### Documents
-##### [.NET implementation guide](pagess/INTEGRATE.md)
+##### [.NET implementation guide](../../pdfs/integrate/business-gateway-.net-implementation-guide.pdf)
 PDF, 498KB, 15 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
