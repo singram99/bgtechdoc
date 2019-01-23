@@ -61,7 +61,7 @@ This file may not be suitable for users of assistive technology. Request an acce
 
 Vendor test data documents the data for testing the service.
 
-#### [Vendor test data](../../pdfs/SearchByPropertyDescriptionVendorTest.pdf)
+#### [Vendor test data](../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf)
 PDF, 207KB, 16 pages
 
 This file may not be suitable for users of assistive technology. Request an accessible format.
