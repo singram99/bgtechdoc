@@ -47,7 +47,7 @@ Outstanding requests service
 Poll request service
 
 ### Definitions, commonly asked questions and known issues	
-[Glossary](pages/definitions/GLOSSARY.md)
+[Glossary](pages/definitions/GLOSSARY.md "Glossary")
 
-[Frequently asked questions](pages/definitions/FAQ.md)
+[Frequently asked questions](pages/definitions/FAQ.md "Frequently asked questions")
 
