@@ -51,4 +51,4 @@
 
 [Frequently asked questions](pages/definitions/FAQ.md "Frequently asked questions")
 
-[Contents](#contents)
+<button onclick="topFunction()" id="myBtn" title="Top">Top</button>
