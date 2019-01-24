@@ -63,7 +63,7 @@ Poll request service
 [//]: # Comment?Response OC with summary (2.0)
 [//]: # Comment?
 ### Definitions, commonly asked questions and known issues	
-[Glossary](pages/definitions/GLOSSARY.md "Glossry")
+[Glossary](pages/definitions/GLOSSARY.md)
 
-[Frequently asked questions](pages/services/EPD.md "Frequently asked questions")
+[Frequently asked questions](pages/definitions/FAQ.md)
 
