@@ -50,5 +50,3 @@
 [Glossary](pages/definitions/GLOSSARY.md "Glossary")
 
 [Frequently asked questions](pages/definitions/FAQ.md "Frequently asked questions")
-
-<button onclick="topFunction('topBtn')" id="topBtn" title="Top">Top</button>
