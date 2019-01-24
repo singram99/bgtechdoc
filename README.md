@@ -65,5 +65,5 @@ Poll request service
 ### Definitions, commonly asked questions and known issues	
 Glossary
 
-Frequently asked questions
+[Frequently asked questions](pages/definitions/FAQ.md) "BG FAQ"
 
