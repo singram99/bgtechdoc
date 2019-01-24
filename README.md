@@ -20,34 +20,35 @@
 ### Services
 [Search by Property Description](pages/services/EPD.md)
 
-Official Copy Title Known
+Official Copy Title Known(pages/services/OC.md)
 
-Official Search of Whole
+Official Search of Whole(pages/services/OSW.md)
 
-Official Search of Part
+Official Search of Part(pages/services/OSP.md)
 
-Land Charges Full Search
+Land Charges Full Search(pages/services/LCFULL.md)
 
-Land Charges Bankruptcy Search
+Land Charges Bankruptcy Search(pages/services/LCBANK.md)
 
-Daylist Enquiry
+Daylist Enquiry(pages/services/DLE.md)
 
-Search of the Index Map
+Search of the Index Map(pages/services/SIM.md)
 
-e-Document Registration Service
+e-Document Registration Service(pages/services/DRS.md)
 
-Register Extract Service
+Register Extract Service(pages/services/RES.md)
 
-Online owner verification
+Online owner verification(pages/services/OOV.md)
 
-Local Land Charges Search
+Local Land Charges Search(pages/services/LLC.md)
 
-Outstanding requests service
+Outstanding requests service(pages/services/ORS.md)
 
-Poll request service
+Poll request service(pages/services/POLL.md)
 
 ### Definitions, commonly asked questions and known issues	
 [Glossary](pages/definitions/GLOSSARY.md "Glossary")
 
 [Frequently asked questions](pages/definitions/FAQ.md "Frequently asked questions")
 
+[Contents](#contents)
