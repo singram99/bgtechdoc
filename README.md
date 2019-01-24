@@ -65,5 +65,5 @@ Poll request service
 ### Definitions, commonly asked questions and known issues	
 [Glossary](pages/definitions/GLOSSARY.md "Glossry")
 
-[Frequently asked questions](pages/definitions/FAQ.md "Frequently asked questions")
+[Frequently asked questions](pages/services/EPD.md "Frequently asked questions")
 
