@@ -3,8 +3,8 @@
 ### Technical terms and conveyancing terms used within the Developer Pack.
 
 #### Documents
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/definitions/business-gateway-FAQ.pdf">Glossary</a></h3>
-<a download="business-gateway-FAQ.pdf" href="../../pdfs/definitions/business-gateway-FAQ.pdf">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/definitions/business-gateway-glossary.pdf">Glossary</a></h3>
+<a download="business-gateway-glossary.pdf" href="../../pdfs/definitions/business-gateway-glossary.pdf">Download</a>
 
 PDF, 223KB, 11 pages
 
