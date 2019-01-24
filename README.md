@@ -20,31 +20,31 @@
 ### Services
 [Search by Property Description](pages/services/EPD.md)
 
-Official Copy Title Known(pages/services/OC.md)
+[Official Copy Title Known](pages/services/OC.md)
 
-Official Search of Whole(pages/services/OSW.md)
+[Official Search of Whole](pages/services/OSW.md)
 
-Official Search of Part(pages/services/OSP.md)
+[Official Search of Part](pages/services/OSP.md)
 
-Land Charges Full Search(pages/services/LCFULL.md)
+[Land Charges Full Search](pages/services/LCFULL.md)
 
-Land Charges Bankruptcy Search(pages/services/LCBANK.md)
+[Land Charges Bankruptcy Search](pages/services/LCBANK.md)
 
-Daylist Enquiry(pages/services/DLE.md)
+[Daylist Enquiry](pages/services/DLE.md)
 
-Search of the Index Map(pages/services/SIM.md)
+[Search of the Index Map](pages/services/SIM.md)
 
-e-Document Registration Service(pages/services/DRS.md)
+[e-Document Registration Service](pages/services/DRS.md)
 
-Register Extract Service(pages/services/RES.md)
+[Register Extract Service](pages/services/RES.md)
 
-Online owner verification(pages/services/OOV.md)
+[Online owner verification](pages/services/OOV.md)
 
-Local Land Charges Search(pages/services/LLC.md)
+[Local Land Charges Search](pages/services/LLC.md)
 
-Outstanding requests service(pages/services/ORS.md)
+[Outstanding requests service](pages/services/ORS.md)
 
-Poll request service(pages/services/POLL.md)
+[Poll request service](pages/services/POLL.md)
 
 ### Definitions, commonly asked questions and known issues	
 [Glossary](pages/definitions/GLOSSARY.md "Glossary")
