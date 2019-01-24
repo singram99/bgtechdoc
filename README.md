@@ -1,4 +1,3 @@
-
 ## Technical documents for software developers to develop the client side of the Business Gateway interface.
 
 #### Contents
@@ -47,21 +46,6 @@ Outstanding requests service
 
 Poll request service
 
-[//]: # Comment?### Deprecated schemas	
-[//]: # Comment?Request Land Charges bankruptcy search (2.0)
-[//]: # Comment?
-[//]: # Comment?Request Land Charges full search (2.0)
-[//]: # Comment?
-[//]: # Comment?Request official search of part with priority (2.0)
-[//]: # Comment?
-[//]: # Comment?Request official search of whole with priority (2.0)
-[//]: # Comment?
-[//]: # Comment?Request search of Index Map (2.0)
-[//]: # Comment?
-[//]: # Comment?Request title known official copy (2.0)
-[//]: # Comment?
-[//]: # Comment?Response OC with summary (2.0)
-[//]: # Comment?
 ### Definitions, commonly asked questions and known issues	
 [Glossary](pages/definitions/GLOSSARY.md)
 
