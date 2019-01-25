@@ -42,7 +42,7 @@
 
 [Local Land Charges Search - TO DO](pages/services/LLC.md)
 
-[Outstanding requests service - TO DO](pages/services/ORS.md)
+[Outstanding requests service](pages/services/ORS.md)
 
 [Poll request service](pages/services/POLL.md)
 

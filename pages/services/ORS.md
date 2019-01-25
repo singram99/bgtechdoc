@@ -1,29 +1,11 @@
-## Business Gateway developer pack: Search by Property Description
+## Business Gateway developer pack: Outstanding requests service
 [//]: # Comment?
-### Technical documents for software developers to integrate Search by Property Description service data into their systems.
+### Technical documents for software developers to integrate Outstanding Requests Service data into their systems.
 
-#### Contents
-- [Process flow](#process-flow)
-- [Schemas](#schemas)
-- [Vendor testing](#vendor-testing)
+Returns a list of requests that have responses available. These responses can then be retrieved using the Poll Request Service. More information is availble in Outstanding Requests Service Information below.
 
-The Search by Property Description service returns the title number of a property based on the address supplied.
-
-### Process flow
-
-#### Input
-Request an enquiry by property description by sending the parameters:
-
-- login details
-- external reference number
-- customer reference
-- address
-
-#### Validation
-Validation diagram (Search by property description) details the validation that the request undergoes.
-
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Validation diagram</a></h3>
-<a download="RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf" href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/Outstanding_Requests_Service_Info.pdf">Outstanding requests service information</a></h3>
+<a download="Outstanding_Requests_Service_Info.pdf" href="../../pdfs/services/Outstanding_Requests_Service_Info.pdf">Download</a>
 
 PDF, 223KB, 11 pages
 
@@ -33,13 +15,10 @@ If you use assistive technology (such as a screen reader) and need a version of 
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
 
-#### Output
-A list of properties and title numbers.
-
 ### Schemas
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
-<a download="RequestSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/RequestOutstandingRequestsV2_0.xsd">RequestOutstandingRequestsV2_0.xsd</a></h3>
+<a download="RequestOutstandingRequestsV2_0.xsd" href="../../schemas/RequestOutstandingRequestsV2_0.xsd">Download</a>
 
 XSD, 10KB
 
@@ -49,23 +28,11 @@ If you use assistive technology (such as a screen reader) and need a version of 
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
 <br/>
-#### This schema provides sample XML for the service.
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
-<a download="RequestSearchByPropertyDescriptionV2_0Example.xml" href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Download</a>
+#### The schema explain describes the fields in the request schema for the Outstanding Requests service.
 
-XML, 974Bytes
-
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo3');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo3">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Schema%3A%20RequestSearchByPropertyDescriptionV2_0Example.xml%0A%20%20Original%20format%3A%20xml%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Schema%3A%20RequestSearchByPropertyDescriptionV2_0Example.xml%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
-<br/>
-#### Schema explain describes the request schema for the service.
-
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Schema explain</a></h3>
-<a download="RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf" href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OutstandingRequestsServiceSchemaExplain.pdf">Schema explain</a></h3>
+<a download="OutstandingRequestsServiceSchemaExplain.pdf" href="../../pdfs/services/OutstandingRequestsServiceSchemaExplain.pdf">Download</a>
 
 PDF, 109KB, 10 pages
 
@@ -75,8 +42,8 @@ If you use assistive technology (such as a screen reader) and need a version of 
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
 <br/>
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
-<a download="ResponseSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/ResponseOutstandingRequestsV2_0.xsd">ResponseOutstandingRequestsV2_0.xsd</a></h3>
+<a download="ResponseOutstandingRequestsV2_0.xsd" href="../../schemas/ResponseOutstandingRequestsV2_0.xsd">Download</a>
 
 XSD, 20.4KB
 
@@ -88,10 +55,10 @@ Please tell us what format you need. It will help us if you say what assistive t
 <br/>
 ### Vendor testing
 
-#### Vendor test data documents the data for testing the service.
+#### Vendor Test Data (Outstanding requests) documents the data for testing the service.
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Vendor test data</a></h3>
-<a download="SearchByPropertyDescriptionVendorTest.pdf" href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/Outstanding_Requests_v2.1_VendorTest.pdf">Vendor test data</a></h3>
+<a download="Outstanding_Requests_v2.1_VendorTest.pdf" href="../../pdfs/services/Outstanding_Requests_v2.1_VendorTest.pdf">Download</a>
 
 PDF, 207KB, 16 pages
 
