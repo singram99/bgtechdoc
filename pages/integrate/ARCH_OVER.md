@@ -1,4 +1,4 @@
-## Business Gateway developer pack: architecture overview
+## architecture overview
 
 ### Overview of the Business Gateway architecture to help understand what is involved in integrating with Business Gateway services.
 

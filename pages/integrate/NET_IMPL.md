@@ -1,4 +1,4 @@
-## Business Gateway developer pack: .NET implementation guide
+## .NET implementation guide
 
 ### Technical implementation document for software developers using C# .NET to integrate with Business Gateway.
 

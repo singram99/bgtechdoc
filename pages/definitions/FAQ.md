@@ -1,4 +1,4 @@
-## Business Gateway developer pack: frequently asked questions
+## frequently asked questions
 
 ### Commonly asked questions about developing an interface to Land Registry's Business Gateway.
 

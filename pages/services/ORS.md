@@ -1,4 +1,4 @@
-## Business Gateway developer pack: Outstanding requests service
+## Outstanding requests service
 
 ### Technical documents for software developers to integrate Outstanding Requests Service data into their systems.
 

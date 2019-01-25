@@ -1,4 +1,4 @@
-## Business Gateway developer pack: glossary
+## glossary
 
 ### Technical terms and conveyancing terms used within the Developer Pack.
 

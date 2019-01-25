@@ -1,4 +1,4 @@
-## Business Gateway developer pack: developer guide
+## developer guide
 
 ### Guide for developers looking for technical information about Land Registry's Business Gateway.
 

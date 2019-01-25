@@ -1,4 +1,4 @@
-## Business Gateway developer pack: vendor testing guide
+## vendor testing guide
 
 ### Guidance for software developers that are using Land Registry web services and testing an interface with these services.
 #### Documents

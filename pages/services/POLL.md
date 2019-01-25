@@ -1,4 +1,4 @@
-## Business Gateway developer pack: Poll request service
+## Poll request service
 
 ### Technical documents for software developers to integrate Poll Request service data into their systems.
 
