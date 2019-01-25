@@ -7,7 +7,7 @@ Returns the response for the given message ID.
 ### Schemas
 
 <h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/PollRequest.xsd">Schema: PollRequest.xsd</a></h3>
-<a download="PollRequest" href="../../schemas/PollRequest.xsd">Download</a>
+<a download="PollRequest.xsd" href="../../schemas/PollRequest.xsd">Download</a>
 
 XSD, 3KB
 
