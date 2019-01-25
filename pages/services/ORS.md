@@ -1,5 +1,5 @@
 ## Business Gateway developer pack: Outstanding requests service
-[//]: # Comment?
+
 ### Technical documents for software developers to integrate Outstanding Requests Service data into their systems.
 
 Returns a list of requests that have responses available. These responses can then be retrieved using the Poll Request Service. More information is availble in Outstanding Requests Service Information below.

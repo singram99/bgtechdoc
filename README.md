@@ -20,7 +20,7 @@
 ### Services
 [Search by Property Description](pages/services/EPD.md)
 
-[Official Copy Title Known - TO DO](pages/services/OC.md)
+[Official Copy Title Known](pages/services/OC.md)
 
 [Official Search of Whole - TO DO](pages/services/OSW.md)
 

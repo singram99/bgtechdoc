@@ -1,29 +1,42 @@
-## Business Gateway developer pack: Search by Property Description
-[//]: # Comment?
-### Technical documents for software developers to integrate Search by Property Description service data into their systems.
+## Business Gateway developer pack: Official Copy Title Known
+
+### Technical documents for software developers to integrate Official Copy Title Known (OC1/OC2) service data into their systems.
 
 #### Contents
 - [Process flow](#process-flow)
 - [Schemas](#schemas)
 - [Vendor testing](#vendor-testing)
 
-The Search by Property Description service returns the title number of a property based on the address supplied.
+The Official Copy Title known (OC1/OC2) service uses a title number (that could be obtained through Search by Property Description service) to return an Official Copy of the register, title plan or both, as a PDF. Can also return copies of documents referred to in the register e.g. conveyance, deed or lease.
 
 ### Process flow
 
 #### Input
-Request an enquiry by property description by sending the parameters:
+Request an official search by sending the following parameters:
 
 - login details
 - external reference number
-- customer reference
-- address
+- title number
+- type (register, title plan, certificate or documents)
+- estate plan plot number(s)
+- requested official copy
+- contact details (customer ref, address, name, phone)
+- fee confirmation
+- property description
+- alternative despatch details
+
+The following parameters will also be necessary if there are any complications, and may be supplied to keep transaction calls and processing times to a minimum.
+
+- continue if closed and continued?
+- notify if pending first registration?
+- notify if pending application or send back-dated?
+- continue if actual fee exceeds fee confirmation?
 
 #### Validation
-Validation diagram (Search by property description) details the validation that the request undergoes.
+Validation diagram details the validation that the request goes through.
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Validation diagram</a></h3>
-<a download="RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf" href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OfficialCopyTitleKnown_v2.1_Validation.pdf">Validation diagram</a></h3>
+<a download="OfficialCopyTitleKnown_v2.1_Validation.pdf" href="../../pdfs/services/OfficialCopyTitleKnown_v2.1_Validation.pdf">Download</a>
 
 PDF, 223KB, 11 pages
 
@@ -34,12 +47,12 @@ Please tell us what format you need. It will help us if you say what assistive t
 </div>
 
 #### Output
-A list of properties and title numbers.
+Responds with a confirmation that the request for documents has been sent to Land Registry. The user is also informed of any entitlement due to commonhold.
 
 ### Schemas
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
-<a download="RequestSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/.xsd">Schema: Request Title Known Official Copy V2_1.xsd</a></h3>
+<a download=".xsd" href="../../schemas/.xsd">Download</a>
 
 XSD, 10KB
 
@@ -51,8 +64,8 @@ Please tell us what format you need. It will help us if you say what assistive t
 <br/>
 #### This schema provides sample XML for the service.
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
-<a download="RequestSearchByPropertyDescriptionV2_0Example.xml" href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
+<a download="OfficialCopyTitleKnownV2.1_Example.xml" href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">Download</a>
 
 XML, 974Bytes
 
@@ -62,10 +75,10 @@ If you use assistive technology (such as a screen reader) and need a version of 
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
 <br/>
-#### Schema explain describes the request schema for the service.
+#### Schema explain describes the request schema for the Request Official Copy Title Known service.
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Schema explain</a></h3>
-<a download="RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf" href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">Schema explain</a></h3>
+<a download="OfficialCopyTitleKnownV2.1_Schema_Explain.pdf" href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">Download</a>
 
 PDF, 109KB, 10 pages
 
@@ -75,8 +88,8 @@ If you use assistive technology (such as a screen reader) and need a version of 
 Please tell us what format you need. It will help us if you say what assistive technology you use.
 </div>
 <br/>
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
-<a download="ResponseSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseTitleKnownOfficialCopyV2_0.xsd</a></h3>
+<a download="ResponseTitleKnownOfficialCopyV2_0.xsd" href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Download</a>
 
 XSD, 20.4KB
 
@@ -88,10 +101,21 @@ Please tell us what format you need. It will help us if you say what assistive t
 <br/>
 ### Vendor testing
 
-#### Vendor test data documents the data for testing the service.
+#### Vendor Test Data (Official Copy Title Known) documents the data for testing the service
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Vendor test data</a></h3>
-<a download="SearchByPropertyDescriptionVendorTest.pdf" href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Download</a>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf">Vendor Test Data (Official Copy Title Known)</a></h3>
+<a download="OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf" href="../../pdfs/services/OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf">Download</a>
+
+PDF, 207KB, 16 pages
+
+This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo6');return false;">Request an accessible format.</a>
+<div style="display:none" id="foo6">
+If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Vendor%20test%20data%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Vendor%20test%20data%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+</div>
+<br/>
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OfficialCopyTitleKnown_OC2_v2.1_VendorTest.pdf">Vendor Test Data (Request Official Copy with Documents)</a></h3>
+<a download="OfficialCopyTitleKnown_OC2_v2.1_VendorTest.pdf" href="../../pdfs/services/OfficialCopyTitleKnown_OC2_v2.1_VendorTest.pdf">Download</a>
 
 PDF, 207KB, 16 pages
 

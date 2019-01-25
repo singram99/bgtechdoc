@@ -1,5 +1,5 @@
 ## Business Gateway developer pack: Poll request service
-[//]: # Comment?
+
 ### Technical documents for software developers to integrate Poll Request service data into their systems.
 
 Returns the response for the given message ID.

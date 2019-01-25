@@ -1,5 +1,5 @@
 ## Business Gateway developer pack: Search by Property Description
-[//]: # Comment?
+
 ### Technical documents for software developers to integrate Search by Property Description service data into their systems.
 
 #### Contents
