@@ -20,29 +20,29 @@
 ### Services
 [Search by Property Description](pages/services/EPD.md)
 
-[Official Copy Title Known](pages/services/OC.md)
+[Official Copy Title Known - TO DO](pages/services/OC.md)
 
-[Official Search of Whole](pages/services/OSW.md)
+[Official Search of Whole - TO DO](pages/services/OSW.md)
 
-[Official Search of Part](pages/services/OSP.md)
+[Official Search of Part - TO DO](pages/services/OSP.md)
 
-[Land Charges Full Search](pages/services/LCFULL.md)
+[Land Charges Full Search - TO DO](pages/services/LCFULL.md)
 
-[Land Charges Bankruptcy Search](pages/services/LCBANK.md)
+[Land Charges Bankruptcy Search - TO DO](pages/services/LCBANK.md)
 
-[Daylist Enquiry](pages/services/DLE.md)
+[Daylist Enquiry - TO DO](pages/services/DLE.md)
 
-[Search of the Index Map](pages/services/SIM.md)
+[Search of the Index Map - TO DO](pages/services/SIM.md)
 
-[e-Document Registration Service](pages/services/DRS.md)
+[e-Document Registration Service - TO DO](pages/services/DRS.md)
 
-[Register Extract Service](pages/services/RES.md)
+[Register Extract Service - TO DO](pages/services/RES.md)
 
-[Online owner verification](pages/services/OOV.md)
+[Online owner verification - TO DO](pages/services/OOV.md)
 
-[Local Land Charges Search](pages/services/LLC.md)
+[Local Land Charges Search - TO DO](pages/services/LLC.md)
 
-[Outstanding requests service](pages/services/ORS.md)
+[Outstanding requests service - TO DO](pages/services/ORS.md)
 
 [Poll request service](pages/services/POLL.md)
 
