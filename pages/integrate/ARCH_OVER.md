@@ -3,7 +3,7 @@
 ### Overview of the Business Gateway architecture to help understand what is involved in integrating with Business Gateway services.
 
 #### Documents
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">Architecture overview</a></h3>
+<h3><a href="../../pdfs/integrate/business-gateway-architecture-overview.pdf"><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"></a> <a href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">Architecture overview</a></h3>
 <a download="business-gateway-architecture-overview.pdf" href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">Download</a>
 
 PDF, 223KB, 11 pages
