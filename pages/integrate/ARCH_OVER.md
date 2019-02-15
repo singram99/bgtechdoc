@@ -7,6 +7,9 @@
 <a download="business-gateway-architecture-overview.pdf" href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">Download</a>
 
 PDF, 223KB, 11 pages
-
+  
+  
+  
+  
 #### Details
 Architecture overview provides a high-level technical overview containing information about implementing web services and detail about the flows used in the Business Gateway.
