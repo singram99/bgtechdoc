@@ -1,7 +1,7 @@
 ## vendor testing guide
 ### Guidance for software developers that are using Land Registry web services and testing an interface with these services.
 #### Documents
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> 
+<h3><a href="../../pdfs/integrate/business-gateway-architecture-overview.pdf"> 
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/business-gateway-vendor-test-guide.pdf.png"></a>
 <a href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">Vendor testing guide</a></h3>
 <a download="business-gateway-vendor-test-guide.pdf" href="../../pdfs/integrate/business-gateway-vendor-test-guide.pdf">Download</a>
