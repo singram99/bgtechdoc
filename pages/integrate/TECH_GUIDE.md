@@ -6,7 +6,7 @@
 <a href="../../pdfs/integrate/Technical_details_of_change.pdf">Technical details of change</a></h3>
 <a download="Technical_details_of_change.pdf" href="../../pdfs/integrate/Technical_details_of_change.pdf">Download</a>
 
-PDF, 59KB, 3 pages  
+PDF, 59KB, 3 pages
 <br />
 <br />
 #### Details
