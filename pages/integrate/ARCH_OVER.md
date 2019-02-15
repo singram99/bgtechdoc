@@ -9,5 +9,6 @@
 PDF, 223KB, 11 pages
 <br />
 <br />
+<br />
 #### Details
 Architecture overview provides a high-level technical overview containing information about implementing web services and detail about the flows used in the Business Gateway.

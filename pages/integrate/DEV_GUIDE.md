@@ -9,5 +9,6 @@
 PDF, 771KB, 28 pages
 <br />
 <br />
+<br />
 #### Details
 The developer guide is aimed towards third party software vendors and provides comprehensive technical information about Business Gateway.

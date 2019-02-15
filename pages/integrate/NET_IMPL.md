@@ -9,5 +9,6 @@
 PDF, 498KB, 15 pages
 <br />
 <br />
+<br />
 #### Details
 In order to use the Business Gateway you’ll need to have your certificates created and installed. This guide assumes this has already happened, if it has not, please contact your account manager.
