@@ -3,8 +3,7 @@
 #### Documents
 <h3><a href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/business-gateway-architecture-overview.pdf.png"></a>
-<a href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">Architecture overview</a><
-/h3>
+<a href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">Architecture overview</a></h3>
 <a download="business-gateway-architecture-overview.pdf" href="../../pdfs/integrate/business-gateway-architecture-overview.pdf">Download</a>
 
 PDF, 223KB, 11 pages
