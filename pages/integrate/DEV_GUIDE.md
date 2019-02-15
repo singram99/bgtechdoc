@@ -7,6 +7,7 @@
 <a download="HM_Land_Registry_Business_Gateway_developer_guide_v1.4.pdf" href="../../pdfs/integrate/HM_Land_Registry_Business_Gateway_developer_guide_v1.4.pdf">Download</a>
 
 PDF, 771KB, 28 pages
-
+<br />
+<br />
 #### Details
 The developer guide is aimed towards third party software vendors and provides comprehensive technical information about Business Gateway.
