@@ -51,6 +51,8 @@ XSD, 10KB
 XSD, 20.4KB
 <br />
 <br />
+<br />
+<br />
 <a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf.png"></a>
 <h3><a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Schema explain</a></h3>
