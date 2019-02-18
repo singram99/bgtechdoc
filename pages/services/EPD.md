@@ -34,8 +34,9 @@ PDF, 223KB, 11 pages
 A list of properties and title numbers.
 
 ### Schemas
-
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
+<h3><a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/file.png"></a>
+<a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
 <a download="RequestSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Download</a>
 
 XSD, 10KB
