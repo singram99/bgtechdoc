@@ -75,7 +75,6 @@ XML, 974Bytes
 <br />
 
 #### This provides an example XML for the service.
-<br />
 
 ### Vendor testing
 
