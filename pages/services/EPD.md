@@ -23,7 +23,7 @@ Request an enquiry by property description by sending the parameters:
 Validation diagram (Search by property description) details the validation that the request undergoes.
 
 <a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">
-<img style="width: 50%; height: 50%; float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf.png"></a>
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf.png"></a>
 <h3><a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Validation diagram</a></h3>
 <a download="RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf" href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Download</a>
 
@@ -34,9 +34,9 @@ PDF, 223KB, 11 pages
 A list of properties and title numbers.
 
 ### Schemas
-<h3><a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">
-<img style="width: 50%; height: 50%; float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
-<a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
+<a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">
+<img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
+<h3><a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Schema: RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
 <a download="RequestSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">Download</a>
 
 XSD, 10KB
@@ -44,8 +44,9 @@ XSD, 10KB
 <br />
 <br />
 <br />
-<h3><img style="width: 50%; height: 50%; float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"> 
-<a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
+<a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">
+<img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
+<h3><a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
 <a download="ResponseSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Download</a>
 
 XSD, 20.4KB
@@ -54,9 +55,9 @@ XSD, 20.4KB
 <br />
 #### Schema explain describes the request schema for the service.
 
-<h3><a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">
-<img style="width: 50%; height: 50%; float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf.png"></a>
-<a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Schema explain</a></h3>
+<a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">
+<img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf.png"></a>
+<h3><a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Schema explain</a></h3>
 <a download="RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf" href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Download</a>
 
 PDF, 109KB, 10 pages
@@ -64,9 +65,9 @@ PDF, 109KB, 10 pages
 <br />
 #### This provides sample XML for the service.
 
-<h3><a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">
-<img style="width: 50%; height: 50%; float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
-<a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
+<a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">
+<img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
+<h3><a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
 <a download="RequestSearchByPropertyDescriptionV2_0Example.xml" href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Download</a>
 
 XML, 974Bytes
@@ -77,9 +78,9 @@ XML, 974Bytes
 
 #### Vendor test data documents the data for testing the service.
 
-<h3><a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">
-<img style="width: 50%; height: 50%; float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/SearchByPropertyDescriptionVendorTest.pdf.png"></a>
-<a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Vendor test data</a></h3>
+<a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">
+<img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/SearchByPropertyDescriptionVendorTest.pdf.png"></a>
+<h3><a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Vendor test data</a></h3>
 <a download="SearchByPropertyDescriptionVendorTest.pdf" href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">Download</a>
 
 PDF, 207KB, 16 pages
