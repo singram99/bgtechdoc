@@ -66,7 +66,7 @@ PDF, 109KB, 10 pages
 <br />
 <br />
 <br />
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> 
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../thumbnail/images/file.png"> 
 <a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
 <a download="ResponseSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Download</a>
 
