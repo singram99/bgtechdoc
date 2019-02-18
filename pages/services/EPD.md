@@ -44,17 +44,7 @@ XSD, 10KB
 <br />
 <br />
 <br />
-#### This schema provides sample XML for the service.
 
-<h3><a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">
-<img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
-<a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
-<a download="RequestSearchByPropertyDescriptionV2_0Example.xml" href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Download</a>
-
-XML, 974Bytes
-<br />
-<br />
-<br />
 #### Schema explain describes the request schema for the service.
 
 <h3><a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">
@@ -71,6 +61,17 @@ PDF, 109KB, 10 pages
 <a download="ResponseSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Download</a>
 
 XSD, 20.4KB
+<br />
+<br />
+<br />
+#### This provides sample XML for the service.
+
+<h3><a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">
+<img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
+<a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Schema: RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
+<a download="RequestSearchByPropertyDescriptionV2_0Example.xml" href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Download</a>
+
+XML, 974Bytes
 <br />
 <br />
 <br />
