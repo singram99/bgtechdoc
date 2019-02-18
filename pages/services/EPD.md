@@ -22,9 +22,9 @@ Request an enquiry by property description by sending the parameters:
 #### Validation
 Validation diagram (Search by property description) details the validation that the request undergoes.
 
-<h3><a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">
+<a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">
 <img style="width: 50%; height: 50%; float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf.png"></a>
-<a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Validation diagram</a></h3>
+<h3><a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Validation diagram</a></h3>
 <a download="RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf" href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Download</a>
 
 PDF, 223KB, 11 pages
