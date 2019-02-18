@@ -64,9 +64,10 @@ PDF, 109KB, 10 pages
 
 #### Schema explain describes the request schema for the service.
 
-<h3><a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">
+<br />
+<a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">
 <img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
-<a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
+<h3><a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
 <a download="RequestSearchByPropertyDescriptionV2_0Example.xml" href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">Download</a>
 
 XML, 974Bytes
