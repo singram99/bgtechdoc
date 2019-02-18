@@ -62,7 +62,6 @@ XSD, 20.4KB
 PDF, 109KB, 10 pages
 <br />
 <br />
-<br />
 #### This provides sample XML for the service.
 
 <h3><a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">
