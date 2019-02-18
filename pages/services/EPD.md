@@ -72,9 +72,9 @@ PDF, 109KB, 10 pages
 
 XML, 974Bytes
 <br />
+<br />
 
 #### This provides an example XML for the service.
-<br />
 <br />
 
 ### Vendor testing
