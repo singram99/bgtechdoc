@@ -44,7 +44,14 @@ XSD, 10KB
 <br />
 <br />
 <br />
+<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"> 
+<a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
+<a download="ResponseSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Download</a>
 
+XSD, 20.4KB
+<br />
+<br />
+<br />
 #### Schema explain describes the request schema for the service.
 
 <h3><a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">
@@ -53,14 +60,6 @@ XSD, 10KB
 <a download="RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf" href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Download</a>
 
 PDF, 109KB, 10 pages
-<br />
-<br />
-<br />
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"> 
-<a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Schema: ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
-<a download="ResponseSearchByPropertyDescriptionV2_0.xsd" href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">Download</a>
-
-XSD, 20.4KB
 <br />
 <br />
 <br />
