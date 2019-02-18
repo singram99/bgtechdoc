@@ -42,7 +42,6 @@ XSD, 10KB
 <br />
 <br />
 <br />
-<br />
 <a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <h3><a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
