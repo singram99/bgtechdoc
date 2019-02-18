@@ -29,7 +29,6 @@ Validation diagram (Search by property description) details the validation that 
 
 PDF, 223KB, 11 pages
 <br />
-<br />
 #### Output
 A list of properties and title numbers.
 
@@ -52,7 +51,6 @@ XSD, 10KB
 XSD, 20.4KB
 <br />
 <br />
-<br />
 #### Schema explain describes the request schema for the service.
 
 <a href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">
@@ -61,7 +59,6 @@ XSD, 20.4KB
 <a download="RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf" href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Download</a>
 
 PDF, 109KB, 10 pages
-<br />
 <br />
 #### This provides sample XML for the service.
 
