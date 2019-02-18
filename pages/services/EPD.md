@@ -33,6 +33,7 @@ PDF, 223KB, 11 pages
 A list of properties and title numbers.
 
 ### Schemas
+
 <a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
 <h3><a href="../../schemas/RequestSearchByPropertyDescriptionV2_0.xsd">RequestSearchByPropertyDescriptionV2_0.xsd</a></h3>
@@ -42,6 +43,8 @@ XSD, 10KB
 <br />
 <br />
 <br />
+<br />
+
 <a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <h3><a href="../../schemas/ResponseSearchByPropertyDescriptionV2_0.xsd">ResponseSearchByPropertyDescriptionV2_0.xsd</a></h3>
@@ -57,6 +60,7 @@ XSD, 20.4KB
 <a download="RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf" href="../../pdfs/services/RequestSearchByPropertyDescriptionV2_0SchemaExplain.pdf">Download</a>
 
 PDF, 109KB, 10 pages
+
 #### Schema explain describes the request schema for the service.
 <br />
 <a href="../../xml/RequestSearchByPropertyDescriptionV2_0Example.xml">
@@ -66,9 +70,11 @@ PDF, 109KB, 10 pages
 
 XML, 974Bytes
 <br />
+
 #### This provides an example XML for the service.
 <br />
 <br />
+
 ### Vendor testing
 
 #### Vendor test data documents the data for testing the service.
