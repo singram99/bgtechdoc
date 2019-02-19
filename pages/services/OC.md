@@ -63,7 +63,6 @@ XSD, 10KB
 XSD, 20.4KB
 
 <br/>
-#### Schema explain describes the request schema for the service.
 
 <h3><a href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/RequestOfficialCopyTitleKnownV2.1SchemaExplain.pdf.png"></a>
@@ -71,6 +70,8 @@ XSD, 20.4KB
 <a download="OfficialCopyTitleKnownV2.1_Schema_Explain.pdf" href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">Download</a>
 
 PDF, 109KB, 10 pages
+
+#### Schema explain describes the request schema for the service.
 
 <br/>
 
