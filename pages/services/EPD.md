@@ -77,7 +77,7 @@ XML, 974Bytes
 
 ### Vendor testing
 
-#### Vendor test data documents the data for testing the service.
+#### Documents the data required for testing the service.
 
 <h3><a href="../../pdfs/services/SearchByPropertyDescriptionVendorTest.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/SearchByPropertyDescriptionVendorTest.pdf.png"></a>
