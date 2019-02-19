@@ -41,7 +41,7 @@ Validation diagram details the validation that the request goes through.
 <a href="../../pdfs/services/Official_Search_Whole_Priority_Validation_v1.3.pdf">Validation diagram</a></h3>
 <a download="OfficialCopyTitleKnown_v2.1_Validation.pdf" href="../../pdfs/services/Official_Search_Whole_Priority_Validation_v1.3.pdf">Download</a>
 
-PDF, 196KB, 9 pages
+PDF, 77KB, 4 pages
 
 #### Output
 Responds with a confirmation that the request for documents has been sent to Land Registry. The user is also informed of any entitlement due to commonhold.
@@ -53,7 +53,7 @@ Responds with a confirmation that the request for documents has been sent to Lan
 <a href="../../schemas/RequestOfficialSearchOfWholeWithPriorityV2_1.xsd">RequestOfficialSearchofWholeWithPriorityV2_1.xsd</a></h3>
 <a download=".xsd" href="../../schemas/RequestOfficialSearchOfWholeWithPriorityV2_1.xsd">Download</a>
 
-XSD, 35KB
+XSD, 25KB
 
 <br/>
 <h3><a href="../../schemas/ResponseOfficialSearchOfWholeWithPriorityV2_0.xsd">
@@ -61,7 +61,7 @@ XSD, 35KB
 <a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseOfficialSearchOfWholeWithPriorityV2_0.xsd</a></h3>
 <a download="ResponseOfficialSearchOfWholeWithPriorityV2_0.xsd" href="../../schemas/ResponseOfficialSearchOfWholeWithPriorityV2_0.xsd">Download</a>
 
-XSD, 23KB
+XSD, 22KB
 
 <br/>
 
@@ -70,7 +70,7 @@ XSD, 23KB
 <a href="../../pdfs/services/Official_Search_Whole_Priority_SchemaExplain.pdf">Schema explain</a></h3>
 <a download="OfficialCopyTitleKnownV2.1_Schema_Explain.pdf" href="../../pdfs/services/Official_Search_Whole_Priority_SchemaExplain.pdf">Download</a>
 
-PDF, 243KB, 24 pages
+PDF, 257KB, 21 pages
 
 #### Schema explain describes the request schema for the service.
 
@@ -79,7 +79,7 @@ PDF, 243KB, 24 pages
 <a href="../../xml/Official_Search_Whole_Priority_v2.1_example.xml">Official_Search_Whole_Priority_v2.1_example.xml</a></h3>
 <a download="OfficialCopyTitleKnownV2.1_Example.xml" href="../../xml/Official_Search_Whole_Priority_v2.1_example.xml">Download</a>
 
-XML, 1KB
+XML, 2KB
 
 <br/>
 #### This provides example XML for the service.
@@ -93,4 +93,4 @@ XML, 1KB
 <a href="../../pdfs/services/Official_Search_Whole_Priority_OS1_v2.1_VendorTest_v1.3.pdf">Vendor Test Data (Request Official Search of Whole)</a></h3>
 <a download="OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf" href="../../pdfs/services/Official_Search_Whole_Priority_OS1_v2.1_VendorTest_v1.3.pdf">Download</a>
 
-PDF, 392KB, 34 pages
+PDF, 356KB, 24 pages
