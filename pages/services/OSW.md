@@ -48,18 +48,18 @@ Responds with a confirmation that the request for documents has been sent to Lan
 
 ### Schemas
 
-<h3><a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">
+<h3><a href="../../schemas/RequestOfficialSearchOfWholeWithPriorityV2_1.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
-<a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">Request Title Known Official Copy V2_1.xsd</a></h3>
-<a download=".xsd" href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">Download</a>
+<a href="../../schemas/RequestOfficialSearchOfWholeWithPriorityV2_1.xsd">RequestOfficialSearchofWholeWithPriorityV2_1.xsd</a></h3>
+<a download=".xsd" href="../../schemas/RequestOfficialSearchOfWholeWithPriorityV2_1.xsd">Download</a>
 
 XSD, 35KB
 
 <br/>
-<h3><a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">
+<h3><a href="../../schemas/ResponseOfficialSearchOfWholeWithPriorityV2_0.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
-<a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseTitleKnownOfficialCopyV2_0.xsd</a></h3>
-<a download="ResponseTitleKnownOfficialCopyV2_0.xsd" href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Download</a>
+<a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseOfficialSearchOfWholeWithPriorityV2_0.xsd</a></h3>
+<a download="ResponseOfficialSearchOfWholeWithPriorityV2_0.xsd" href="../../schemas/ResponseOfficialSearchOfWholeWithPriorityV2_0.xsd">Download</a>
 
 XSD, 23KB
 
@@ -90,7 +90,7 @@ XML, 1KB
 
 <h3><a href="../../pdfs/services/Official_Search_Whole_Priority_OS1_v2.1_VendorTest_v1.3.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/Official_Search_Whole_Priority_OS1_v2_1_VendorTest_v1_3.pdf.png"></a>
-<a href="../../pdfs/services/Official_Search_Whole_Priority_OS1_v2.1_VendorTest_v1.3.pdf">Vendor Test Data (Request Official Copy)</a></h3>
+<a href="../../pdfs/services/Official_Search_Whole_Priority_OS1_v2.1_VendorTest_v1.3.pdf">Vendor Test Data (Request Official Search of Whole)</a></h3>
 <a download="OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf" href="../../pdfs/services/Official_Search_Whole_Priority_OS1_v2.1_VendorTest_v1.3.pdf">Download</a>
 
 PDF, 392KB, 34 pages
