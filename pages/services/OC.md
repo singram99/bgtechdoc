@@ -48,7 +48,7 @@ Responds with a confirmation that the request for documents has been sent to Lan
 ### Schemas
 
 <h3><a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">
-<img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"> 
+<img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">Request Title Known Official Copy V2_1.xsd</a></h3>
 <a download=".xsd" href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">Download</a>
 
@@ -56,7 +56,7 @@ XSD, 10KB
 
 <br/>
 <h3><a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">
-<img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"> 
+<img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseTitleKnownOfficialCopyV2_0.xsd</a></h3>
 <a download="ResponseTitleKnownOfficialCopyV2_0.xsd" href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Download</a>
 
