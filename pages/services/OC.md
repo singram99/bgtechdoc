@@ -42,87 +42,63 @@ Validation diagram details the validation that the request goes through.
 
 PDF, 223KB, 11 pages
 
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo1');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo1">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Validation%20diagram%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Validation%20diagram%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
-
 #### Output
 Responds with a confirmation that the request for documents has been sent to Land Registry. The user is also informed of any entitlement due to commonhold.
 
 ### Schemas
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/.xsd">Schema: Request Title Known Official Copy V2_1.xsd</a></h3>
-<a download=".xsd" href="../../schemas/.xsd">Download</a>
+<h3><a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">
+<img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"> 
+<a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">Request Title Known Official Copy V2_1.xsd</a></h3>
+<a download=".xsd" href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">Download</a>
 
 XSD, 10KB
 
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo2');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo2">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Schema%3A%20RequestSearchByPropertyDescriptionV2_0.xsd%0A%20%20Original%20format%3A%20xsd%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Schema%3A%20RequestSearchByPropertyDescriptionV2_0.xsd%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
 <br/>
-#### This schema provides sample XML for the service.
-
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
-<a download="OfficialCopyTitleKnownV2.1_Example.xml" href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">Download</a>
-
-XML, 974Bytes
-
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo3');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo3">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Schema%3A%20RequestSearchByPropertyDescriptionV2_0Example.xml%0A%20%20Original%20format%3A%20xml%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Schema%3A%20RequestSearchByPropertyDescriptionV2_0Example.xml%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
-<br/>
-#### Schema explain describes the request schema for the Request Official Copy Title Known service.
-
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">Schema explain</a></h3>
-<a download="OfficialCopyTitleKnownV2.1_Schema_Explain.pdf" href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">Download</a>
-
-PDF, 109KB, 10 pages
-
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo4');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo4">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Schema%20explain%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Schema%20explain%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
-<br/>
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseTitleKnownOfficialCopyV2_0.xsd</a></h3>
+<h3><a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">
+<img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"> 
+<a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseTitleKnownOfficialCopyV2_0.xsd</a></h3>
 <a download="ResponseTitleKnownOfficialCopyV2_0.xsd" href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Download</a>
 
 XSD, 20.4KB
 
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo5');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo5">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Schema%3A%20ResponseSearchByPropertyDescriptionV2_0.xsd%0A%20%20Original%20format%3A%20xsd%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Schema%3A%20ResponseSearchByPropertyDescriptionV2_0.xsd%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
 <br/>
+#### Schema explain describes the request schema for the service.
+
+<h3><a href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/RequestOfficialCopyTitleKnownV2.1SchemaExplain.pdf.png"></a>
+<a href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">Schema explain</a></h3>
+<a download="OfficialCopyTitleKnownV2.1_Schema_Explain.pdf" href="../../pdfs/services/OfficialCopyTitleKnownV2.1_Schema_Explain.pdf">Download</a>
+
+PDF, 109KB, 10 pages
+
+<br/>
+#### This provides example XML for the service.
+
+<h3><a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">
+<img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
+<a href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
+<a download="OfficialCopyTitleKnownV2.1_Example.xml" href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">Download</a>
+
+XML, 974Bytes
+
+<br/>
+
 ### Vendor testing
 
 #### Vendor Test Data (Official Copy Title Known) documents the data for testing the service
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf">Vendor Test Data (Official Copy Title Known)</a></h3>
+<h3><a href="../../pdfs/services/OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf">
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/OfficialCopyTitleKnownVendorTest.pdf.png"></a>
+<a href="../../pdfs/services/OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf">Vendor Test Data (Official Copy Title Known)</a></h3>
 <a download="OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf" href="../../pdfs/services/OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf">Download</a>
 
 PDF, 207KB, 16 pages
 
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo6');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo6">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Vendor%20test%20data%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Vendor%20test%20data%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
 <br/>
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OfficialCopyTitleKnown_OC2_v2.1_VendorTest.pdf">Vendor Test Data (Request Official Copy with Documents)</a></h3>
+<h3><a href="../../pdfs/services/OfficialCopyTitleKnown_OC2_v2.1_VendorTest.pdf">
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/OfficialCopyTitleKnownVendorTest_OC2.pdf.png"></a>
+<a href="../../pdfs/services/OfficialCopyTitleKnown_OC2_v2.1_VendorTest.pdf">Vendor Test Data (Request Official Copy with Documents)</a></h3>
 <a download="OfficialCopyTitleKnown_OC2_v2.1_VendorTest.pdf" href="../../pdfs/services/OfficialCopyTitleKnown_OC2_v2.1_VendorTest.pdf">Download</a>
 
 PDF, 207KB, 16 pages
-
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo7');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo7">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Vendor%20test%20data%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Vendor%20test%20data%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
