@@ -1,13 +1,13 @@
-## Official Search of Whole
+## Official Search of Part
 
-### Technical documents for software developers to integrate Official Search of Whole with Priority OS(W) service data into their systems.
+### Technical documents for software developers to integrate Official Search of Part with Priority OS(P) service data into their systems.
 
 #### Contents
 - [Process flow](#process-flow)
 - [Schemas](#schemas)
 - [Vendor testing](#vendor-testing)
 
-#### Protects the register for the applicant for a period of 28 days.
+#### Provides an official search with priority of part of the land in a registered title or a pending first registration application.
 
 ### Process flow
 
