@@ -35,7 +35,9 @@ The following parameters will also be necessary if there are any complications, 
 #### Validation
 Validation diagram details the validation that the request goes through.
 
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/services/OfficialCopyTitleKnown_v2.1_Validation.pdf">Validation diagram</a></h3>
+<h3><a href="../../pdfs/services/OfficialCopyTitleKnown_v2.1_Validation.pdf">
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/OfficialCopyTitleKnown-V1_1ValidationDiagram.pdf.png"></a>
+<a href="../../pdfs/services/OfficialCopyTitleKnown_v2.1_Validation.pdf">Validation diagram</a></h3>
 <a download="OfficialCopyTitleKnown_v2.1_Validation.pdf" href="../../pdfs/services/OfficialCopyTitleKnown_v2.1_Validation.pdf">Download</a>
 
 PDF, 223KB, 11 pages
