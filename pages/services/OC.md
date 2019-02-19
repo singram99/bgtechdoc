@@ -73,7 +73,6 @@ XSD, 20.4KB
 PDF, 109KB, 10 pages
 
 <br/>
-#### This provides example XML for the service.
 
 <h3><a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
@@ -83,10 +82,11 @@ PDF, 109KB, 10 pages
 XML, 974Bytes
 
 <br/>
+#### This provides example XML for the service.
 
 ### Vendor testing
 
-#### Vendor Test Data (Official Copy Title Known) documents the data for testing the service
+#### Documents the data required for testing the service.
 
 <h3><a href="../../pdfs/services/OfficialCopyTitleKnown_OC1_v2.1_VendorTest.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/OfficialCopyTitleKnownVendorTest.pdf.png"></a>
