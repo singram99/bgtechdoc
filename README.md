@@ -22,7 +22,7 @@
 
 [Official Copy Title Known](pages/services/OC.md)
 
-[Official Search of Whole - TO DO](pages/services/OSW.md)
+[Official Search of Whole](pages/services/OSW.md)
 
 [Official Search of Part - TO DO](pages/services/OSP.md)
 
