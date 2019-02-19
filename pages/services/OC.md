@@ -73,7 +73,7 @@ PDF, 243KB, 24 pages
 
 #### Schema explain describes the request schema for the service.
 
-<h3><a href="../../schemas/RequestTitleKnownOfficialCopyV2_1.xsd">
+<h3><a href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">
 <img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
 <a href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">RequestSearchByPropertyDescriptionV2_0Example.xml</a></h3>
 <a download="OfficialCopyTitleKnownV2.1_Example.xml" href="../../xml/OfficialCopyTitleKnownV2.1_Example.xml">Download</a>
