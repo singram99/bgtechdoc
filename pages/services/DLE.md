@@ -12,7 +12,7 @@ Reveals any pending applications that are lodged against the title.
 ### Process flow
 
 #### Input
-Request a bankruptcy search bankruptcy by sending the following parameters:
+Request a daylist enquiry by sending the following parameters:
 
 - login details
 - external reference number
