@@ -38,7 +38,7 @@ The system sends a notification in the response to the CMS to confirm the reques
 <a href="../../schemas/RequestLandChargesFullSearchV2_1.xsd">RequestLandChargesFullSearchV2_1.xsd</a></h3>
 <a download=".xsd" href="../../schemas/RequestLandChargesFullSearchV2_1.xsd">Download</a>
 
-XSD, 34KB
+XSD, 21KB
 
 <br/>
 <h3><a href="../../schemas/ResponseLandChargesFullSearchV2_0.xsd">
@@ -55,7 +55,7 @@ XSD, 22KB
 <a href="../../pdfs/services/LandChargesFullSearch_2.1_SchemaExplain.pdf">Schema explain</a></h3>
 <a download="LandChargesFullSearch_2.1_SchemaExplain.pdf" href="../../pdfs/services/LandChargesFullSearch_2.1_SchemaExplain.pdf">Download</a>
 
-PDF, 277KB, 29 pages
+PDF, 201KB, 22 pages
 
 #### Schema explain describes the request schema for the service.
 
@@ -68,4 +68,4 @@ PDF, 277KB, 29 pages
 <a href="../../pdfs/services/LandChargesFullSearch_v2.1_VendorTest_v1.0.pdf">Vendor Test Data (Request Official Search of Whole)</a></h3>
 <a download="LandChargesFullSearch_v2.1_VendorTest_v1.0.pdf" href="../../pdfs/services/LandChargesFullSearch_v2.1_VendorTest_v1.0.pdf">Download</a>
 
-PDF, 303KB, 13 pages
+PDF, 276KB, 17 pages
