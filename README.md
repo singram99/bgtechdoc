@@ -32,9 +32,9 @@
 
 [Daylist Enquiry](pages/services/DLE.md)
 
-[Search of the Index Map - TO DO](pages/services/SIM.md)
+[Search of the Index Map](pages/services/SIM.md)
 
-[e-Document Registration Service - TO DO](pages/services/DRS.md)
+[e-Document Registration Service](pages/services/DRS.md)
 
 [Register Extract Service - TO DO](pages/services/RES.md)
 
