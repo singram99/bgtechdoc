@@ -15,10 +15,12 @@ The submission guide advises how to use the services that make up e-DRS. eDRS Va
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Submission.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/EDRS-Submission-Guide.pdf.png"></a>
-<a href="../../pdfs/services/eDRS_V2_1_Submission.pdf">Validation diagram</a></h3>
+<a href="../../pdfs/services/eDRS_V2_1_Submission.pdf">Submission guide</a></h3>
 <a download="eDRS_V2_1_Submission.pdf" href="../../pdfs/services/eDRS_V2_1_Submission.pdf">Download</a>
 
 PDF, 202KB, 5 pages
+<br />
+<br />
 <br />
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Validation.pdf">
