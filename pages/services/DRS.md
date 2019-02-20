@@ -103,6 +103,7 @@ XSD, 20.4KB
 PDF, 109KB, 10 pages
 <br />
 <br />
+<br />
 
 #### The interface specification specifies the interface between Land Registry and a Business Gateway e-Document Registration Service customer.
 
@@ -112,6 +113,8 @@ PDF, 109KB, 10 pages
 <a download="eDRS_v2.1_Interface_Spec.pdf" href="../../pdfs/services/eDRS_v2.1_Interface_Spec.pdf">Download</a>
 
 PDF, 109KB, 10 pages
+<br />
+<br />
 
 ### Vendor testing
 
