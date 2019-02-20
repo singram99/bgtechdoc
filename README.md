@@ -28,9 +28,9 @@
 
 [Land Charges Full Search](pages/services/LCFULL.md)
 
-[Land Charges Bankruptcy Search - TO DO](pages/services/LCBANK.md)
+[Land Charges Bankruptcy Search](pages/services/LCBANK.md)
 
-[Daylist Enquiry - TO DO](pages/services/DLE.md)
+[Daylist Enquiry](pages/services/DLE.md)
 
 [Search of the Index Map - TO DO](pages/services/SIM.md)
 
