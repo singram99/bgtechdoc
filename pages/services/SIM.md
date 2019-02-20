@@ -53,7 +53,7 @@ XSD, 22KB
 <h3><a href="../../pdfs/services/SearchIndexMap_v2.1_SchemaExplain.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/SearchIndexMap_2.1SchemaExplain.pdf.png"></a>
 <a href="../../pdfs/services/SearchIndexMap_v2.1_SchemaExplain.pdf">Schema explain</a></h3>
-<a download="SearchIndexMap_v2.1_SchemaExplain.pdf" href="../../pdfs/servicesSearchIndexMap_v2.1_SchemaExplain.pdf">Download</a>
+<a download="SearchIndexMap_v2.1_SchemaExplain.pdf" href="../../pdfs/services/SearchIndexMap_v2.1_SchemaExplain.pdf">Download</a>
 
 PDF, 298KB, 26 pages
 
