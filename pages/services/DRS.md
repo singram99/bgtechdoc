@@ -101,6 +101,8 @@ XSD, 20.4KB
 <a download="eDRS v2_1 Schema Model.pdf" href="../../pdfs/services/eDRS v2_1 Schema Model.pdf">Download</a>
 
 PDF, 109KB, 10 pages
+<br />
+<br />
 
 #### The interface specification specifies the interface between Land Registry and a Business Gateway e-Document Registration Service customer.
 
