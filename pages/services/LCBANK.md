@@ -63,7 +63,7 @@ PDF, 201KB, 22 pages
 #### Documents the data required for testing the service.
 
 <h3><a href="../../pdfs/services/LandChargesBankruptcy_v2.1_VendorTest_v1.0.pdf">
-<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/LCBankruptcyv2_0VendorTest.pdf.pngs"></a>
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/LCBankruptcyv2_0VendorTest.pdf.png"></a>
 <a href="../../pdfs/services/LandChargesBankruptcy_v2.1_VendorTest_v1.0.pdf">Vendor Test Data</a></h3>
 <a download="LandChargesBankruptcy_v2.1_VendorTest_v1.0.pdf" href="../../pdfs/services/LandChargesBankruptcy_v2.1_VendorTest_v1.0.pdf">Download</a>
 
