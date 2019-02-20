@@ -40,7 +40,7 @@ eDRS Validation Diagrams details the validation that the request goes through.
 <a href="../../schemas/RequestApplicationToChangeRegisterV2_1.xsd">RequestApplicationToChangeRegisterV2_1.xsd</a></h3>
 <a download="RequestApplicationToChangeRegisterV2_1.xsd" href="../../schemas/RequestApplicationToChangeRegisterV2_1.xsd">Download</a>
 
-XSD, 10KB
+XSD, 33KB
 <br />
 <br />
 <br />
@@ -50,7 +50,7 @@ XSD, 10KB
 <a href="../../schemas/ResponseApplicationToChangeRegisterV2_0.xsd">ResponseApplicationToChangeRegisterV2_0.xsd</a></h3>
 <a download="ResponseApplicationToChangeRegisterV2_0.xsd" href="../../schemas/ResponseApplicationToChangeRegisterV2_0.xsd">Download</a>
 
-XSD, 20.4KB
+XSD, 68KB
 <br />
 <br />
 <br />
@@ -60,7 +60,7 @@ XSD, 20.4KB
 <a href="../../schemas/RequestAttachmentV2_1.xsd">RequestAttachmentV2_1.xsd</a></h3>
 <a download="RequestAttachmentV2_1.xsd" href="../../schemas/RequestAttachmentV2_1.xsd">Download</a>
 
-XSD, 10KB
+XSD, 13KB
 <br />
 <br />
 <br />
@@ -70,7 +70,7 @@ XSD, 10KB
 <a href="../../schemas/ResponseAttachmentV2_0.xsd">ResponseAttachmentV2_0.xsd</a></h3>
 <a download="ResponseAttachmentV2_0.xsd" href="../../schemas/ResponseAttachmentV2_0.xsd">Download</a>
 
-XSD, 20.4KB
+XSD, 8KB
 <br />
 <br />
 <br />
@@ -80,7 +80,7 @@ XSD, 20.4KB
 <a href="../../schemas/CorrespondenceV1_0.xsd">CorrespondenceV1_0.xsd</a></h3>
 <a download="CorrespondenceV1_0.xsd" href="../../schemas/CorrespondenceV1_0.xsd">Download</a>
 
-XSD, 10KB
+XSD, 4KB
 <br />
 <br />
 <br />
@@ -90,7 +90,7 @@ XSD, 10KB
 <a href="../../schemas/ResponseEarlyCompletionV2_0.xsd">ResponseEarlyCompletionV2_0.xsd</a></h3>
 <a download="ResponseEarlyCompletionV2_0.xsd" href="../../schemas/ResponseEarlyCompletionV2_0.xsd">Download</a>
 
-XSD, 20.4KB
+XSD, 61KB
 <br />
 <br />
 <br />
@@ -100,7 +100,7 @@ XSD, 20.4KB
 <a href="../../pdfs/services/eDRS v2_1 Schema Model.pdf">eDRS schema model</a></h3>
 <a download="eDRS v2_1 Schema Model.pdf" href="../../pdfs/services/eDRS v2_1 Schema Model.pdf">Download</a>
 
-PDF, 109KB, 10 pages
+PDF, 292KB, 9 pages
 <br />
 <br />
 <br />
@@ -110,7 +110,7 @@ PDF, 109KB, 10 pages
 <a href="../../pdfs/services/eDRS_v2.1_Interface_Spec.pdf">Interface specification</a></h3>
 <a download="eDRS_v2.1_Interface_Spec.pdf" href="../../pdfs/services/eDRS_v2.1_Interface_Spec.pdf">Download</a>
 
-PDF, 109KB, 10 pages
+PDF, 1,699KB, 143 pages
 <br />
 <br />
 <br />
@@ -126,28 +126,28 @@ PDF, 109KB, 10 pages
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data.pdf">Vendor test data - Electronic Document Registration Service </a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 223KB, 18 pages
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Attachment.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSAttachmentServiceVendorData.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Attachment.pdf">Vendor test data - Attachment</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Attachment.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Attachment.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 174KB, 7 pages
 
 <h3><a href="../../pdfs/services/eDRS_Correspondence_Vendor_Test_Data_v1.1.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/CorrespondenceVendorData.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_Correspondence_Vendor_Test_Data_v1.1.pdf">Vendor test data - Correspondence</a></h3>
 <a download="eDRS_Correspondence_Vendor_Test_Data_v1.1.pdf" href="../../pdfs/services/eDRS_Correspondence_Vendor_Test_Data_v1.1.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 135KB, 2 pages
 
 <h3><a href="../../pdfs/services/eDRS_Early_Completion_Vendor_Test_Data_v1.1.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSEarlyCompletionVendorData.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_Early_Completion_Vendor_Test_Data_v1.1.pdf">Vendor test data - Early Completion</a></h3>
 <a download="eDRS_Early_Completion_Vendor_Test_Data_v1.1.pdf" href="../../pdfs/services/eDRS_Early_Completion_Vendor_Test_Data_v1.1.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 136KB, 2 pages
 
 #### Scenarios
 
@@ -156,53 +156,53 @@ PDF, 207KB, 16 pages
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario1.pdf">Scenario 1: transfer and charge</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Scenario1.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario1.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 228KB, 14 pages
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario2.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSScenario2.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario2.pdf">Scenario 2: remortgage</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Scenario2.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario2.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 215KB, 13 pages
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario3.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSScenario3.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario3.pdf">Scenario 3: transfer of equity</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Scenario3.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario3.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 241KB, 15 pages
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario4.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSScenario4.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario4.pdf">Scenario 4: restriction, hostile takeover</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Scenario4.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario4.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 217KB, 13 pages
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario5.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSScenario5.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario5.pdf">Scenario 5: change of name</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Scenario5.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario5.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 219KB, 11 pages
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario6.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSScenario6.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario6.pdf">Scenario 6: dispositionary first lease</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Scenario6.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario6.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 227KB, 14 pages
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario7.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSScenario7.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario7.pdf">Scenario 7: transfer of part</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Scenario7.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario7.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 212KB, 13 pages
 
 <h3><a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario8.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px; border:5px solid LightGrey;" src="../../images/thumbnail/EDRSScenario8.pdf.png"></a>
 <a href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario8.pdf">Scenario 8: lease extension</a></h3>
 <a download="eDRS_V2_1_Vendor_Test_Data_Scenario8.pdf" href="../../pdfs/services/eDRS_V2_1_Vendor_Test_Data_Scenario8.pdf">Download</a>
 
-PDF, 207KB, 16 pages
+PDF, 225KB, 13 pages
