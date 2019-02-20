@@ -43,7 +43,7 @@ XSD, 21KB
 <br/>
 <h3><a href="../../schemas/ResponseLandChargesFullSearchV2_0.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
-<a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseLandChargesFullSearchV2_0.xsd</a></h3>
+<a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">ResponseLandChargesFullSearchV2_0.xsd</a></h3>
 <a download="ResponseLandChargesFullSearchV2_0.xsd" href="../../schemas/ResponseLandChargesFullSearchV2_0.xsd">Download</a>
 
 XSD, 22KB
