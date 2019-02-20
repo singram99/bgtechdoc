@@ -24,9 +24,9 @@
 
 [Official Search of Whole](pages/services/OSW.md)
 
-[Official Search of Part - TO DO](pages/services/OSP.md)
+[Official Search of Part](pages/services/OSP.md)
 
-[Land Charges Full Search - TO DO](pages/services/LCFULL.md)
+[Land Charges Full Search](pages/services/LCFULL.md)
 
 [Land Charges Bankruptcy Search - TO DO](pages/services/LCBANK.md)
 
