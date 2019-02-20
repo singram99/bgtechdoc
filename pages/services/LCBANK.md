@@ -1,4 +1,4 @@
-## Land Charges Bankruptcy  Search
+## Land Charges Bankruptcy Search
 
 ### Technical documents for software developers to integrate Land Charges Bankruptcy Search K16 service data into their systems.
 
