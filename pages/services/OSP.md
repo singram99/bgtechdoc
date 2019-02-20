@@ -42,14 +42,14 @@ Responds with a confirmation that the request for documents has been sent to Lan
 <h3><a href="../../schemas/RequestOfficialSearchOfPartWithPriorityV2_1.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <a href="../../schemas/RequestOfficialSearchOfPartWithPriorityV2_1.xsd">RequestOfficialSearchOfPartWithPriorityV2_1.xsd</a></h3>
-<a download=".xsd" href="../../schemas/RequestOfficialSearchOfPartWithPriorityV2_1.xsd">Download</a>
+<a download="RequestOfficialSearchOfPartWithPriorityV2_1.xsd" href="../../schemas/RequestOfficialSearchOfPartWithPriorityV2_1.xsd">Download</a>
 
 XSD, 34KB
 
 <br/>
 <h3><a href="../../schemas/ResponseOfficialSearchOfPartWithPriorityV2_0.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
-<a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">Schema: ResponseOfficialSearchOfPartWithPriorityV2_0.xsd</a></h3>
+<a href="../../schemas/ResponseOfficialSearchOfPartWithPriorityV2_0.xsd">Schema: ResponseOfficialSearchOfPartWithPriorityV2_0.xsd</a></h3>
 <a download="ResponseOfficialSearchOfPartWithPriorityV2_0.xsd" href="../../schemas/ResponseOfficialSearchOfPartWithPriorityV2_0.xsd">Download</a>
 
 XSD, 22KB

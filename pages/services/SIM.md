@@ -36,14 +36,14 @@ Confirmation that the application has been lodged.
 <h3><a href="../../schemas/RequestSearchOfIndexMapV2_1.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <a href="../../schemas/RequestSearchOfIndexMapV2_1.xsd">RequestSearchOfIndexMapV2_1.xsd</a></h3>
-<a download=".xsd" href="../../schemas/RequestSearchOfIndexMapV2_1.xsd">Download</a>
+<a download="RequestSearchOfIndexMapV2_1.xsd" href="../../schemas/RequestSearchOfIndexMapV2_1.xsd">Download</a>
 
 XSD, 33KB
 
 <br/>
 <h3><a href="../../schemas/ResponseSearchOfIndexMapV2_0.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
-<a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">ResponseSearchOfIndexMapV2_0.xsd</a></h3>
+<a href="../../schemas/ResponseSearchOfIndexMapV2_0.xsd">ResponseSearchOfIndexMapV2_0.xsd</a></h3>
 <a download="ResponseSearchOfIndexMapV2_0.xsd" href="../../schemas/ResponseSearchOfIndexMapV2_0.xsd">Download</a>
 
 XSD, 22KB

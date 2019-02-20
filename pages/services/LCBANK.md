@@ -35,7 +35,7 @@ The system sends a notification in the response to the CMS to confirm the reques
 <h3><a href="../../schemas/RequestLandChargesBankruptcySearchV2_1.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <a href="../../schemas/RequestLandChargesBankruptcySearchV2_1.xsd">RequestLandChargesBankruptcySearchV2_1.xsd</a></h3>
-<a download=".xsd" href="../../schemas/RequestLandChargesBankruptcySearchV2_1.xsd">Download</a>
+<a download="RequestLandChargesBankruptcySearchV2_1.xsd" href="../../schemas/RequestLandChargesBankruptcySearchV2_1.xsd">Download</a>
 
 XSD, 23KB
 

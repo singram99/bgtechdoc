@@ -36,7 +36,7 @@ The system sends a notification in the response to the CMS to confirm the reques
 <h3><a href="../../schemas/RequestLandChargesFullSearchV2_1.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <a href="../../schemas/RequestLandChargesFullSearchV2_1.xsd">RequestLandChargesFullSearchV2_1.xsd</a></h3>
-<a download=".xsd" href="../../schemas/RequestLandChargesFullSearchV2_1.xsd">Download</a>
+<a download="RequestLandChargesFullSearchV2_1.xsd" href="../../schemas/RequestLandChargesFullSearchV2_1.xsd">Download</a>
 
 XSD, 21KB
 
