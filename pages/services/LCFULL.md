@@ -12,7 +12,7 @@ Provides details of an official search of the Land Charges Register (not applica
 ### Process flow
 
 #### Input
-Request a full search search by sending the following parameters:
+Request a full search by sending the following parameters:
 
 - login details
 - external reference number
@@ -65,7 +65,7 @@ PDF, 201KB, 22 pages
 
 <h3><a href="../../pdfs/services/LandChargesFullSearch_v2.1_VendorTest_v1.0.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/LandChargesFullSearchv2_0VendorTest.pdf.png"></a>
-<a href="../../pdfs/services/LandChargesFullSearch_v2.1_VendorTest_v1.0.pdf">Vendor Test Data (Request Official Search of Whole)</a></h3>
+<a href="../../pdfs/services/LandChargesFullSearch_v2.1_VendorTest_v1.0.pdf">Vendor Test Data</a></h3>
 <a download="LandChargesFullSearch_v2.1_VendorTest_v1.0.pdf" href="../../pdfs/services/LandChargesFullSearch_v2.1_VendorTest_v1.0.pdf">Download</a>
 
 PDF, 276KB, 17 pages
