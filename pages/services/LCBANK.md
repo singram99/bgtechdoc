@@ -54,7 +54,7 @@ XSD, 22KB
 <a href="../../pdfs/services/LandChargesBankruptcy_2.1_SchemaExplain.pdf">Schema explain</a></h3>
 <a download="LandChargesBankruptcy_2.1_SchemaExplain.pdf" href="../../pdfs/services/LandChargesBankruptcy_2.1_SchemaExplain.pdf">Download</a>
 
-PDF, 201KB, 22 pages
+PDF, 238KB, 26 pages
 
 #### Schema explain describes the request schema for the service.
 
@@ -67,4 +67,4 @@ PDF, 201KB, 22 pages
 <a href="../../pdfs/services/LandChargesBankruptcy_v2.1_VendorTest_v1.0.pdf">Vendor Test Data</a></h3>
 <a download="LandChargesBankruptcy_v2.1_VendorTest_v1.0.pdf" href="../../pdfs/services/LandChargesBankruptcy_v2.1_VendorTest_v1.0.pdf">Download</a>
 
-PDF, 276KB, 17 pages
+PDF, 155KB, 6 pages
