@@ -1,4 +1,4 @@
-## Search of the Index Map
+## Register Extract Service
 
 ### Technical documents for software developers to integrate Register Extract Service (RES) service data into their systems.
 
