@@ -4,7 +4,7 @@
 
 #### Documents
 <h3><a href="../../pdfs/definitions/business-gateway-glossary.pdf">
-<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/SearchIndexMap_2.1SchemaExplain.pdf.png"></a>
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/business-gateway-glossary.pdf.png"></a>
 <a href="../../pdfs/definitions/business-gateway-glossary.pdf">Schema explain</a></h3>
 <a download="business-gateway-glossary.pdf" href="../../pdfs/definitions/business-gateway-glossary.pdf">Download</a>
 
