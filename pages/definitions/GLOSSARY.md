@@ -8,7 +8,7 @@
 <a href="../../pdfs/definitions/business-gateway-glossary.pdf">Schema explain</a></h3>
 <a download="business-gateway-glossary.pdf" href="../../pdfs/definitions/business-gateway-glossary.pdf">Download</a>
 
-PDF, 187KB, 9 pages
+PDF, 197KB, 9 pages
 
 #### Details
 Detailed descriptions of technical terms and conveyancing terms used within the Developer Pack.

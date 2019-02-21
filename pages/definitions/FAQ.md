@@ -11,4 +11,4 @@
 PDF, 417KB, 10 pages
 
 #### Details
-Commonly asked questions about developing an interface to Land Registry’s Business Gateway.
+Commonly asked questions about developing an interface to Land Registry's Business Gateway.
