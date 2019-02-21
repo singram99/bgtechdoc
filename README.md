@@ -36,9 +36,9 @@
 
 [e-Document Registration Service](pages/services/DRS.md)
 
-[Register Extract Service - TO DO](pages/services/RES.md)
+[Register Extract Service](pages/services/RES.md)
 
-[Online owner verification - TO DO](pages/services/OOV.md)
+[Online owner verification](pages/services/OOV.md)
 
 [Local Land Charges Search - TO DO](pages/services/LLC.md)
 
