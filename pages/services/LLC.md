@@ -19,7 +19,7 @@ Local Land Charges Search service validation diagram details the validation that
 <a href="../../pdfs/services/LLC_Validation_Diagram_23.08.18.pdf">Validation diagram</a></h3>
 <a download="LLC_Validation_Diagram_23.08.18.pdf" href="../../pdfs/services/LLC_Validation_Diagram_23.08.18.pdf">Download</a>
 
-PDF, 141KB, 4 pages
+PDF, 132KB, 4 pages
 <br />
 
 ### Schemas
@@ -29,7 +29,7 @@ PDF, 141KB, 4 pages
 <a href="../../schemas/LLCSearchRequestV1_0.xsd">LLCSearchRequestV1_0.xsd</a></h3>
 <a download="LLCSearchRequestV1_0.xsd" href="../../schemas/LLCSearchRequestV1_0.xsd">Download</a>
 
-XSD, 7KB
+XSD, 4KB
 
 <br/>
 <h3><a href="../../schemas/LLCSearchResponseV1_0.xsd">
@@ -37,7 +37,7 @@ XSD, 7KB
 <a href="../../schemas/LLCSearchResponseV1_0.xsd">LLCSearchResponseV1_0.xsd</a></h3>
 <a download="LLCSearchResponseV1_0.xsd" href="../../schemas/LLCSearchResponseV1_0.xsd">Download</a>
 
-XSD, 11KB
+XSD, 16KB
 
 <br/>
 <h3><a href="../../schemas/PollRequest.xsd">
@@ -54,7 +54,7 @@ XSD, 3B
 <a href="../../pdfs/services/LLC_Interface_Spec_23.08.18.pdf">Interface specification</a></h3>
 <a download="LLC_Interface_Spec_23.08.18.pdf" href="../../pdfs/services/LLC_Interface_Spec_23.08.18.pdf">Download</a>
 
-PDF, 429KB, 43 pages
+PDF, 606KB, 36 pages
 <br/>
 <br/>
 <br/>
@@ -69,4 +69,4 @@ The interface specification specifies the interface between Land Registry and a 
 <a href="../../pdfs/services/LLC_Vendor_test_data_23.08.18.pdf">Vendor Test Data</a></h3>
 <a download="LLC_Vendor_test_data_23.08.18.pdf" href="../../pdfs/services/LLC_Vendor_test_data_23.08.18.pdf">Download</a>
 
-PDF, 282KB, 15 pages
+PDF, 252KB, 14 pages
