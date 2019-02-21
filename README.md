@@ -49,6 +49,4 @@
 ### Definitions and commonly asked questions
 [Glossary](pages/definitions/GLOSSARY.md)
 
-[Frequently asked questions](pages/definitions/FAQ.md "ZZZ")
-
-[This link](http://example.com/ "Title")
+[Frequently asked questions](pages/definitions/FAQ.md "Frequently asked questions")
