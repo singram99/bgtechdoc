@@ -7,7 +7,7 @@
 - [Schemas](#schemas)
 - [Vendor testing](#vendor-testing)
 
-The Online Owner Verification service identifies any titles associated with the supplied address and then checks if the supplied name matches any of the proprietors for those titles.
+The Local Land Charges Search service identifies any Local Land Charges which effect the area identified by the search request.
 
 ### Process flow
 
