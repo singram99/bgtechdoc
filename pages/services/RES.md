@@ -23,7 +23,7 @@ XSD, 14KB
 <a href="../../schemas/ResponseOCWithSummaryV2_1.xsd">ResponseOCWithSummaryV2_1.xsd</a></h3>
 <a download="ResponseOCWithSummaryV2_1.xsd" href="../../schemas/ResponseOCWithSummaryV2_1.xsd">Download</a>
 
-XSD, 70B
+XSD, 70KB
 
 <br/>
 

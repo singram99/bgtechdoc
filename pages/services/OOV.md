@@ -19,7 +19,7 @@ Online Owner Verification service validation diagram details the validation that
 <a href="../../pdfs/services/OOV_Validation_Diagram.pdf.pdf">Validation diagram</a></h3>
 <a download="OOV_Validation_Diagram.pdf.pdf" href="../../pdfs/services/OOV_Validation_Diagram.pdf.pdf">Download</a>
 
-PDF, 223KB, 11 pages
+PDF, 141KB, 4 pages
 <br />
 #### Output
 A list of properties and title numbers.
@@ -31,7 +31,7 @@ A list of properties and title numbers.
 <a href="../../schemas/RequestOnlineOwnershipVerificationV1_0.xsd">RequestOnlineOwnershipVerificationV1_0.xsd</a></h3>
 <a download="RequestOnlineOwnershipVerificationV1_0.xsd" href="../../schemas/RequestOnlineOwnershipVerificationV1_0.xsd">Download</a>
 
-XSD, 14KB
+XSD, 7KB
 
 <br/>
 <h3><a href="../../schemas/ResponseOnlineOwnershipVerificationV1_0.xsd">
@@ -39,7 +39,7 @@ XSD, 14KB
 <a href="../../schemas/ResponseOnlineOwnershipVerificationV1_0.xsd">ResponseOnlineOwnershipVerificationV1_0.xsd</a></h3>
 <a download="ResponseOnlineOwnershipVerificationV1_0.xsd" href="../../schemas/ResponseOnlineOwnershipVerificationV1_0.xsd">Download</a>
 
-XSD, 70B
+XSD, 11KB
 
 <br/>
 <h3><a href="../../schemas/PollRequest.xsd">
@@ -47,16 +47,16 @@ XSD, 70B
 <a href="../../schemas/PollRequest.xsd">PollRequest.xsd</a></h3>
 <a download="PollRequest.xsd" href="../../schemas/PollRequest.xsd">Download</a>
 
-XSD, 70B
+XSD, 3B
 
 <br/>
 
-<h3><a href="../../pdfs/services/RES_V2_1_Interface_Specification.pdf">
+<h3><a href="../../pdfs/services/OOV_Interface_Spec.pdf.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/Interface-specification-Online-owner-verification.pdf.png"></a>
-<a href="../../pdfs/services/RES_V2_1_Interface_Specification.pdf">Interface specification</a></h3>
-<a download="RES_V2_1_Interface_Specification.pdf" href="../../pdfs/services/RES_V2_1_Interface_Specification.pdf">Download</a>
+<a href="../../pdfs/services/OOV_Interface_Spec.pdf.pdf">Interface specification</a></h3>
+<a download="OOV_Interface_Spec.pdf.pdf" href="../../pdfs/services/OOV_Interface_Spec.pdf.pdf">Download</a>
 
-PDF, 798KB, 64 pages
+PDF, 429KB, 43 pages
 <br/>
 <br/>
 <br/>
@@ -71,4 +71,4 @@ The interface specification specifies the interface between Land Registry and a 
 <a href="../../pdfs/services/OOV_Vendor_test_data.pdf">Vendor Test Data</a></h3>
 <a download="OOV_Vendor_test_data.pdf" href="../../pdfs/services/OOV_Vendor_test_data.pdf">Download</a>
 
-PDF, 181KB, 5 pages
+PDF, 282KB, 15 pages
