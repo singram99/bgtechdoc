@@ -40,7 +40,7 @@
 
 [Online owner verification](pages/services/OOV.md)
 
-[Local Land Charges Search - TO DO](pages/services/LLC.md)
+[Local Land Charges Search](pages/services/LLC.md)
 
 [Outstanding requests service](pages/services/ORS.md)
 

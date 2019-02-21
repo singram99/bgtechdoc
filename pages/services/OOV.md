@@ -14,10 +14,10 @@ The Online Owner Verification service identifies any titles associated with the 
 #### Validation
 Online Owner Verification service validation diagram details the validation that the request goes through.
 
-<h3><a href="../../pdfs/services/OOV_Validation_Diagram.pdf.pdf">
+<h3><a href="../../pdfs/services/OOV_Validation_Diagram.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/Validation-diagram-Online-owner-verification.pdf.png"></a>
-<a href="../../pdfs/services/OOV_Validation_Diagram.pdf.pdf">Validation diagram</a></h3>
-<a download="OOV_Validation_Diagram.pdf.pdf" href="../../pdfs/services/OOV_Validation_Diagram.pdf.pdf">Download</a>
+<a href="../../pdfs/services/OOV_Validation_Diagram.pdf">Validation diagram</a></h3>
+<a download="OOV_Validation_Diagram.pdf" href="../../pdfs/services/OOV_Validation_Diagram.pdf">Download</a>
 
 PDF, 141KB, 4 pages
 <br />
@@ -51,10 +51,10 @@ XSD, 3B
 
 <br/>
 
-<h3><a href="../../pdfs/services/OOV_Interface_Spec.pdf.pdf">
+<h3><a href="../../pdfs/services/OOV_Interface_Spec.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/Interface-specification-Online-owner-verification.pdf.png"></a>
-<a href="../../pdfs/services/OOV_Interface_Spec.pdf.pdf">Interface specification</a></h3>
-<a download="OOV_Interface_Spec.pdf.pdf" href="../../pdfs/services/OOV_Interface_Spec.pdf.pdf">Download</a>
+<a href="../../pdfs/services/OOV_Interface_Spec.pdf">Interface specification</a></h3>
+<a download="OOV_Interface_Spec.pdf" href="../../pdfs/services/OOV_Interface_Spec.pdf">Download</a>
 
 PDF, 429KB, 43 pages
 <br/>
