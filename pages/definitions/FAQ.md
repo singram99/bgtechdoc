@@ -9,6 +9,7 @@
 <a download="business-gateway-FAQ.pdf" href="../../pdfs/definitions/business-gateway-FAQ.pdf">Download</a>
 
 PDF, 417KB, 10 pages
+<br/>
 
 #### Details
 Commonly asked questions about developing an interface to Land Registry's Business Gateway.

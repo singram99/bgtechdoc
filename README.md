@@ -4,7 +4,7 @@
 - [Integrate with Business Gateway services](#integrate-with-Business-Gateway-services)
 - [Services](#services)
 - [Deprecated schemas](#deprecated-schemas)
-- [Definitions, commonly asked questions and known issues](#definitions-commonly-asked-questions-and-known-issues)
+- [Definitions and commonly asked questions](#definitions-and-commonly-asked-questions)
 
 ### Integrate with Business Gateway services
 [Architecture overview](pages/integrate/ARCH_OVER.md)
