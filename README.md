@@ -49,4 +49,4 @@
 ### Definitions and commonly asked questions
 [Glossary](pages/definitions/GLOSSARY.md)
 
-[Frequently asked questions] pages/definitions/FAQ.md "FAQ"
+[Frequently asked questions] <pages/definitions/FAQ.md> "FAQ"
