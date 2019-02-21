@@ -46,7 +46,7 @@
 
 [Poll request service](pages/services/POLL.md)
 
-### Definitions, commonly asked questions and known issues	
+### Definitions and commonly asked questions
 [Glossary](pages/definitions/GLOSSARY.md "Glossary")
 
 [Frequently asked questions](pages/definitions/FAQ.md "Frequently asked questions")

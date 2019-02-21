@@ -3,16 +3,12 @@
 ### Technical terms and conveyancing terms used within the Developer Pack.
 
 #### Documents
-<h3><img style="float: left; margin: 0px 5px 0px 0px" src="../../images/file.png"> <a href="../../pdfs/definitions/business-gateway-glossary.pdf">Glossary</a></h3>
+<h3><a href="../../pdfs/definitions/business-gateway-glossary.pdf">
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/SearchIndexMap_2.1SchemaExplain.pdf.png"></a>
+<a href="../../pdfs/definitions/business-gateway-glossary.pdf">Schema explain</a></h3>
 <a download="business-gateway-glossary.pdf" href="../../pdfs/definitions/business-gateway-glossary.pdf">Download</a>
 
-PDF, 223KB, 11 pages
-
-This file may not be suitable for users of assistive technology. <a href="#" onclick="toggle_visibility('foo');return false;">Request an accessible format.</a>
-<div style="display:none" id="foo">
-If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email <a href="mailto:customersupport@landregistry.gov.uk?body=Details%20of%20document%20required%3A%0A%0A%20%20Title%3A%20Glossary%0A%20%20Original%20format%3A%20pdf%0A%0APlease%20tell%20us%3A%0A%0A%20%201.%20What%20makes%20this%20format%20unsuitable%20for%20you%3F%0A%20%202.%20What%20format%20you%20would%20prefer%3F%0A%20%20%20%20%20%20&amp;subject=Request%20for%20%27Glossary%27%20in%20an%20alternative%20format">customersupport@landregistry.gov.uk</a>.
-Please tell us what format you need. It will help us if you say what assistive technology you use.
-</div>
+PDF, 187KB, 9 pages
 
 #### Details
 Detailed descriptions of technical terms and conveyancing terms used within the Developer Pack.
