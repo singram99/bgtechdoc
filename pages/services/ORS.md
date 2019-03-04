@@ -18,7 +18,7 @@ PDF, 157KB, 2 pages
 <h3><a href="../../schemas/RequestOutstandingRequestsV2_1.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
 <a href="../../schemas/RequestOutstandingRequestsV2_1.xsd">RequestOutstandingRequestsV2_1.xsd</a></h3>
-<a download=".xsd" href="../../schemas/RequestOutstandingRequestsV2_1.xsd">Download</a>
+<a download="RequestOutstandingRequestsV2_1.xsd" href="../../schemas/RequestOutstandingRequestsV2_1.xsd">Download</a>
 
 XSD, 5KB
 
