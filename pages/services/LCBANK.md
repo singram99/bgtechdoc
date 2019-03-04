@@ -42,7 +42,7 @@ XSD, 23KB
 <br/>
 <h3><a href="../../schemas/ResponseLandChargesBankruptcySearchV2_0.xsd">
 <img style="float: left; margin: 0px 5px 0px 0px" src="../../images/thumbnail/file.png"></a> 
-<a href="../../schemas/ResponseTitleKnownOfficialCopyV2_0.xsd">ResponseLandChargesBankruptcySearchV2_0.xsd</a></h3>
+<a href="../../schemas/ResponseLandChargesBankruptcySearchV2_0.xsd">ResponseLandChargesBankruptcySearchV2_0.xsd</a></h3>
 <a download="ResponseLandChargesBankruptcySearchV2_0.xsd" href="../../schemas/ResponseLandChargesBankruptcySearchV2_0.xsd">Download</a>
 
 XSD, 22KB
