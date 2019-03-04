@@ -35,10 +35,6 @@ PDF, 56KB, 1 page
 #### Output
 A list of entries found against the supplied title number.
 
-#### Output
-
-The system sends a notification in the response to the CMS to confirm the request for the results. Or, the response contains the documents.
-
 ### Schemas
 
 <h3><a href="../../schemas/RequestDaylistEnquiryV2_0.xsd">
