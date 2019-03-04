@@ -77,7 +77,7 @@ PDF, 257KB, 21 pages
 <h3><a href="../../xml/Official_Search_Whole_Priority_v2.1_example.xml">
 <img style="float: left; margin: 0px 5px 0px 0px;" src="../../images/thumbnail/file.png"></a>
 <a href="../../xml/Official_Search_Whole_Priority_v2.1_example.xml">Official_Search_Whole_Priority_v2.1_example.xml</a></h3>
-<a download="OfficialCopyTitleKnownV2.1_Example.xml" href="../../xml/Official_Search_Whole_Priority_v2.1_example.xml">Download</a>
+<a download="Official_Search_Whole_Priority_v2.1_example.xml" href="../../xml/Official_Search_Whole_Priority_v2.1_example.xml">Download</a>
 
 XML, 2KB
 
