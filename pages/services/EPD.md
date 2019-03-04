@@ -27,7 +27,7 @@ Validation diagram (Search by property description) details the validation that 
 <a href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Validation diagram</a></h3>
 <a download="RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf" href="../../pdfs/services/RequestSearchbyPropertyDescriptionValidationDiagramV1_1.pdf">Download</a>
 
-PDF, 223KB, 11 pages
+PDF, 207KB, 16 pages
 <br />
 #### Output
 A list of properties and title numbers.
