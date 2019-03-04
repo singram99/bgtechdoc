@@ -8,7 +8,7 @@
 <a href="../../pdfs/definitions/business-gateway-FAQ.pdf">Frequently asked questions</a></h3>
 <a download="business-gateway-FAQ.pdf" href="../../pdfs/definitions/business-gateway-FAQ.pdf">Download</a>
 
-PDF, 417KB, 10 pages
+PDF, 418KB, 10 pages
 <br/>
 
 #### Details
