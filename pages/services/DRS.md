@@ -110,7 +110,7 @@ PDF, 292KB, 9 pages
 <a href="../../pdfs/services/eDRS_v2.1_Interface_Spec.pdf">Interface specification</a></h3>
 <a download="eDRS_v2.1_Interface_Spec.pdf" href="../../pdfs/services/eDRS_v2.1_Interface_Spec.pdf">Download</a>
 
-PDF, 1,699KB, 143 pages
+PDF, 1,769KB, 143 pages
 <br />
 <br />
 <br />
