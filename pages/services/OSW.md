@@ -41,7 +41,7 @@ Validation diagram details the validation that the request goes through.
 <a href="../../pdfs/services/Official_Search_Whole_Priority_Validation_v1.3.pdf">Validation diagram</a></h3>
 <a download="OfficialCopyTitleKnown_v2.1_Validation.pdf" href="../../pdfs/services/Official_Search_Whole_Priority_Validation_v1.3.pdf">Download</a>
 
-PDF, 77KB, 4 pages
+PDF, 167KB, 7 pages
 
 #### Output
 Responds with a confirmation that the request for documents has been sent to Land Registry. The user is also informed of any entitlement due to commonhold.
