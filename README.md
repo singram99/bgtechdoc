@@ -3,7 +3,6 @@
 #### Contents
 - [Integrate with Business Gateway services](#integrate-with-Business-Gateway-services)
 - [Services](#services)
-- [Deprecated schemas](#deprecated-schemas)
 - [Definitions and commonly asked questions](#definitions-and-commonly-asked-questions)
 
 ### Integrate with Business Gateway services
