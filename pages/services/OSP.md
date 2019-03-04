@@ -71,7 +71,7 @@ PDF, 277KB, 29 pages
 
 <h3><a href="../../pdfs/services/OSofPartWithP_v2.1_Test_v1.0.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/Official_Search_Whole_Priority_OS1_v2_1_VendorTest_v1_3.pdf.png"></a>
-<a href="../../pdfs/services/OSofPartWithP_v2.1_Test_v1.0.pdf">Vendor Test Data (Request Official Search of Whole)</a></h3>
+<a href="../../pdfs/services/OSofPartWithP_v2.1_Test_v1.0.pdf">Vendor Test Data (Request Official Search of Part)</a></h3>
 <a download="OSofPartWithP_v2.1_Test_v1.0.pdf" href="../../pdfs/services/OSofPartWithP_v2.1_Test_v1.0.pdf">Download</a>
 
 PDF, 303KB, 13 pages
