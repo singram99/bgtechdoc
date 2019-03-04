@@ -16,7 +16,7 @@ XSD, 5KB
 <br/>
 
 <h3><a href="../../pdfs/services/PollRequest_Schema_Explain.pdf">
-<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/PollRequest_Schema_Explain.pdf.png"></a>
+<img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/PollRequestServiceSchemaExplain.pdf.png"></a>
 <a href="../../pdfs/services/PollRequest_Schema_Explain.pdf">Schema explain</a></h3>
 <a download="PollRequest_Schema_Explain.pdf" href="../../pdfs/services/PollRequest_Schema_Explain.pdf">Download</a>
 
