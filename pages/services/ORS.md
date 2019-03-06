@@ -37,7 +37,7 @@ XSD, 8KB
 <a href="../../pdfs/services/OutstandingRequestsServiceSchemaExplain.pdf">Schema explain</a></h3>
 <a download="OutstandingRequestsServiceSchemaExplain.pdf" href="../../pdfs/services/OutstandingRequestsServiceSchemaExplain.pdf">Download</a>
 
-PDF, 125KB, 2 pages
+PDF, 47KB, 4 pages
 
 #### Schema explain describes the request schema for the service.
 
@@ -47,7 +47,7 @@ PDF, 125KB, 2 pages
 
 <h3><a href="../../pdfs/services/Outstanding_Requests_v2.1_VendorTest.pdf">
 <img style="float: left; margin: 0px 5px 0px 0px;  border:5px solid LightGrey;" src="../../images/thumbnail/outstanding-requests-v2_1VendorTest.pdf.png"></a>
-<a href="../../pdfs/services/Outstanding_Requests_v2.1_VendorTest.pdf">Validation diagram</a></h3>
+<a href="../../pdfs/services/Outstanding_Requests_v2.1_VendorTest.pdf">Vendor Test Data</a></h3>
 <a download="Outstanding_Requests_v2.1_VendorTest.pdf" href="../../pdfs/services/Outstanding_Requests_v2.1_VendorTest.pdf">Download</a>
 
 PDF, 238KB, 5 pages
