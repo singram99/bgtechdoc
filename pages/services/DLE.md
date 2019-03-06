@@ -30,7 +30,7 @@ Validation diagram details the validation that the request undergoes.
 <a href="../../pdfs/services/DaylistEnquiry_ValidationDiagram_v1.1.pdf">Validation diagram</a></h3>
 <a download="DaylistEnquiry_ValidationDiagram_v1.1.pdf" href="../../pdfs/services/DaylistEnquiry_ValidationDiagram_v1.1.pdf">Download</a>
 
-PDF, 138KB, 3 page
+PDF, 141KB, 3 page
 <br />
 #### Output
 A list of entries found against the supplied title number.
